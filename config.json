@@ -1,0 +1,16 @@
+
+{
+  "server": {
+    "host": "127.0.0.1",
+    "port": 5000
+  },
+  "timeouts": {
+    "ack_timeout": 3.0,
+    "max_retries": 3,
+    "heartbeat_interval": 30.0
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  }
+}

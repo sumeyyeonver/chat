@@ -1,0 +1,854 @@
+2025-06-03 15:26:36,007 - ReliableUDP - INFO - Sent reliable message ce43fc2c-2df3-4629-ab7d-cfdbc0577b10 to ('localhost', 5000)
+2025-06-03 15:26:36,009 - ChatClient - ERROR - Receive error: [WinError 10054] Varolan bir baï¿½lantï¿½ uzaktaki bir ana bilgisayar tarafï¿½ndan zorla kapatï¿½ldï¿½
+2025-06-03 15:26:39,013 - ReliableUDP - WARNING - Retransmitting message ce43fc2c-2df3-4629-ab7d-cfdbc0577b10 (attempt 1)
+2025-06-03 15:26:42,027 - ReliableUDP - WARNING - Retransmitting message ce43fc2c-2df3-4629-ab7d-cfdbc0577b10 (attempt 2)
+2025-06-03 15:26:45,043 - ReliableUDP - WARNING - Retransmitting message ce43fc2c-2df3-4629-ab7d-cfdbc0577b10 (attempt 3)
+2025-06-03 15:26:48,061 - ReliableUDP - ERROR - Message ce43fc2c-2df3-4629-ab7d-cfdbc0577b10 timed out after 3 retries
+2025-06-03 15:35:59,638 - ReliableUDP - INFO - Sent reliable message b2067390-26b5-4029-814c-cbfcc2bf1d66 to ('localhost', 5000)
+2025-06-03 15:35:59,639 - ReliableUDP - INFO - ACK received for message b2067390-26b5-4029-814c-cbfcc2bf1d66, delivery time: 0.007s
+2025-06-03 15:35:59,643 - ChatClient - INFO - Connected to server (delivery time: 0.007s)
+2025-06-03 15:36:07,532 - ReliableUDP - INFO - Sent reliable message fa8e11c3-23d8-4cf6-a145-b2c671225f5a to ('localhost', 5000)
+2025-06-03 15:36:07,533 - ReliableUDP - INFO - ACK received for message fa8e11c3-23d8-4cf6-a145-b2c671225f5a, delivery time: 0.001s
+2025-06-03 15:36:07,534 - ChatClient - INFO - Message delivered (time: 0.001s, retries: 0)
+2025-06-03 15:36:46,191 - ReliableUDP - INFO - Sent reliable message 244e9462-9491-4747-a603-621babcc0c24 to ('localhost', 5000)
+2025-06-03 15:36:46,192 - ReliableUDP - INFO - ACK received for message 244e9462-9491-4747-a603-621babcc0c24, delivery time: 0.002s
+2025-06-03 15:36:46,192 - ChatClient - INFO - Message delivered (time: 0.002s, retries: 0)
+2025-06-03 15:37:29,054 - ReliableUDP - INFO - Sent reliable message dde27eaf-c6ca-4feb-b32c-c6102c35447c to ('localhost', 5000)
+2025-06-03 15:37:29,063 - ReliableUDP - INFO - ACK received for message dde27eaf-c6ca-4feb-b32c-c6102c35447c, delivery time: 0.014s
+2025-06-03 15:37:29,075 - ChatClient - INFO - Connected to server (delivery time: 0.014s)
+2025-06-03 15:37:36,593 - ReliableUDP - INFO - Sent reliable message ec868e1e-ebf3-425a-84fd-1db2adf047b3 to ('localhost', 5000)
+2025-06-03 15:37:36,594 - ReliableUDP - INFO - ACK received for message ec868e1e-ebf3-425a-84fd-1db2adf047b3, delivery time: 0.002s
+2025-06-03 15:37:36,594 - ChatClient - INFO - Message delivered (time: 0.002s, retries: 0)
+2025-06-03 15:37:53,052 - ReliableUDP - INFO - Sent reliable message 9298bcb7-e0ad-4cbd-b528-296e32cc93d3 to ('localhost', 5000)
+2025-06-03 15:37:53,052 - ReliableUDP - INFO - ACK received for message 9298bcb7-e0ad-4cbd-b528-296e32cc93d3, delivery time: 0.001s
+2025-06-03 15:37:53,053 - ChatClient - INFO - Message delivered (time: 0.001s, retries: 0)
+2025-06-03 15:38:34,506 - ReliableUDP - INFO - Sent reliable message 4c031d6f-01dc-4f5f-86a0-bcb73a5d0b11 to ('localhost', 5000)
+2025-06-03 15:38:34,507 - ReliableUDP - INFO - ACK received for message 4c031d6f-01dc-4f5f-86a0-bcb73a5d0b11, delivery time: 0.006s
+2025-06-03 15:38:34,535 - ChatClient - INFO - Connected to server (delivery time: 0.006s)
+2025-06-03 15:38:34,536 - ReliableUDP - INFO - Sent reliable message 34cac5e3-a5f1-498a-b8a4-0de7323dcb26 to ('localhost', 5000)
+2025-06-03 15:38:34,537 - ReliableUDP - INFO - ACK received for message 34cac5e3-a5f1-498a-b8a4-0de7323dcb26, delivery time: 0.002s
+2025-06-03 15:38:40,809 - ReliableUDP - INFO - Sent reliable message 08b06026-cdb5-4c68-9068-5f505e380444 to ('localhost', 5000)
+2025-06-03 15:38:40,810 - ReliableUDP - INFO - ACK received for message 08b06026-cdb5-4c68-9068-5f505e380444, delivery time: 0.001s
+2025-06-03 15:38:40,810 - ChatClient - INFO - Message delivered (time: 0.001s, retries: 0)
+2025-06-03 15:39:04,537 - ReliableUDP - INFO - Sent reliable message 0886d81d-af0d-4174-9a97-4ce8c6c3585c to ('localhost', 5000)
+2025-06-03 15:39:04,538 - ReliableUDP - INFO - ACK received for message 0886d81d-af0d-4174-9a97-4ce8c6c3585c, delivery time: 0.002s
+2025-06-03 15:39:34,542 - ReliableUDP - INFO - Sent reliable message 1cebcdf7-cfa0-4561-a670-6fde572e28ba to ('localhost', 5000)
+2025-06-03 15:39:34,543 - ReliableUDP - INFO - ACK received for message 1cebcdf7-cfa0-4561-a670-6fde572e28ba, delivery time: 0.003s
+2025-06-03 15:39:46,089 - ReliableUDP - INFO - Sent reliable message 7d53780f-16d4-4c09-a1f2-dd92664b0da7 to ('localhost', 5000)
+2025-06-03 15:39:49,072 - ReliableUDP - INFO - Sent reliable message 6bccfa68-ad42-44f7-8c7a-0c359c82e8c1 to ('localhost', 5000)
+2025-06-03 15:39:50,837 - ReliableUDP - INFO - Sent reliable message 41ef021a-1cdb-4264-b4ab-dda411a58221 to ('localhost', 5000)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as f
+ERROR - Receive error: [WinError 10054] Varolan bir baï¿½lantï¿½ uzaktaki bir ana bilgisayar tarafï¿½ndan zorla kapatï¿½ldï¿½
+ERROR - Failed to connect to server after 3 attempts
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as f
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Message delivered (time: 0.002s, retries: 0)
+INFO - Message sent: dddddd...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as feer
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 2 users online
+INFO - User list updated: 1 users online
+INFO - Message received from server
+INFO - Message sent: k...
+INFO - Message delivered (time: 0.002s, retries: 0)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as g
+INFO - Connected successfully (delivery time: 0.007s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message sent: s...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as fff
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message sent: slm...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as bir
+INFO - Connected successfully (delivery time: 0.007s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Attempting to connect to localhost:5000 as iki
+INFO - User list updated: 2 users online
+INFO - Message received from server
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 2 users online
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message received from iki
+INFO - Message sent: iki mesaj...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as birki
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message sent: mesaj...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as n
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message sent: dn...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as zf
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 2 users online
+INFO - User list updated: 2 users online
+INFO - Message received from server
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message received from zf
+INFO - Message sent: ss...
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message sent: dfdf...
+INFO - Message received from n
+INFO - Message delivered (time: 0.001s, retries: 0)
+INFO - Message sent: aaaaaaa...
+INFO - Message received from zf
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as osman
+INFO - Connected successfully (delivery time: 0.007s, retries: 0)
+INFO - User list updated: 3 users online
+INFO - User list updated: 3 users online
+INFO - Message received from server
+INFO - Message received from server
+INFO - Message delivered (time: 0.002s, retries: 0)
+INFO - Message received from osman
+INFO - Message received from osman
+INFO - Message sent: osman mesaj attï¿½...
+INFO - User list updated: 2 users online
+INFO - User list updated: 2 users online
+INFO - Message received from server
+INFO - Message received from server
+INFO - Disconnecting from server...
+INFO - User list updated: 2 users online
+INFO - User list updated: 2 users online
+INFO - Message received from server
+INFO - Message received from server
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - User list updated: 1 users online
+INFO - Message received from server
+INFO - Disconnected from server
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Modern Chat Client with Private Messages initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as h
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 1 users online
+INFO - Modern Chat Client with Private Messages initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as ee
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - User list updated: 2 users online
+INFO - User list updated: 2 users online
+INFO - Public message received from server
+INFO - Modern Chat Client with Private Messages initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as rr
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - User list updated: 3 users online
+INFO - User list updated: 3 users online
+INFO - User list updated: 3 users online
+INFO - Public message received from server
+INFO - Public message received from server
+INFO - Public message delivered (time: 0.001s, retries: 0)
+INFO - Public message received from rr
+INFO - Public message received from rr
+INFO - Public message sent: safsf...
+INFO - Opened private chat with ee
+INFO - Private message sent to ee: safasdfsdaf...
+INFO - Private message to ee delivered (time: 0.001s, retries: 0)
+INFO - Private message received from rr
+INFO - Opened private chat with rr
+INFO - User list updated: 2 users online
+INFO - User list updated: 2 users online
+INFO - Public message received from server
+INFO - Public message received from server
+INFO - Disconnecting from server...
+INFO - User list updated: 2 users online
+INFO - User list updated: 2 users online
+INFO - Public message received from server
+INFO - Public message received from server
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - User list updated: 1 users online
+INFO - Public message received from server
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Public message sent: selam...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message sent: merhaba nasï¿½lsï¿½n...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as eylï¿½l
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - Public message received from server
+INFO - Public message sent: merhaba teï¿½ekkï¿½rler...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message received from eylï¿½l
+INFO - Opened private chat with eylï¿½l
+INFO - Private message sent to eylï¿½l: merahab...
+INFO - Private msg to eylï¿½l delivered (0.001s, 0 retries)
+INFO - Private message received from akin
+INFO - Opened private chat with akin
+INFO - Disconnecting from server...
+INFO - Public message received from server
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as eylï¿½l
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Public message received from server
+INFO - Public message sent: merhaba...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message received from eylï¿½l
+INFO - Public message sent: selam...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message received from akin
+INFO - Public message sent: teï¿½ekkï¿½rler...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message received from eylï¿½l
+INFO - Opened private chat with akin
+INFO - Private message sent to akin: selam...
+INFO - Private msg to akin delivered (0.001s, 0 retries)
+INFO - Private message received from eylï¿½l
+INFO - Opened private chat with eylï¿½l
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Public message sent: selam...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as eylï¿½l
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Public message received from server
+INFO - Public message sent: merhaba...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from eylï¿½l
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.003s, retries: 0)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 59718)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as eylï¿½l
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Public message received from server
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 59718), 'eylï¿½l': ('127.0.0.1', 61367)}
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 59718), 'eylï¿½l': ('127.0.0.1', 61367)}
+INFO - Public message sent: merhaab...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message received from eylï¿½l
+INFO - Public message sent: selam...
+INFO - Public msg delivered (0.002s, 0 retries)
+INFO - Public message received from akin
+INFO - Opened private chat with eylï¿½l
+INFO - P2P message sent to eylï¿½l at ('127.0.0.1', 61367): merhaba...
+INFO - Private message received from akin
+INFO - Opened private chat with akin
+INFO - Private message received from akin
+INFO - Private message received from akin
+INFO - Private message received from akin
+ERROR - Failed to send P2P message to eylï¿½l after 3 retries
+INFO - Public message received from server
+INFO - Updated user addresses: {'eylï¿½l': ('127.0.0.1', 61367)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 50277)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as eylï¿½l
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 50277), 'eylï¿½l': ('127.0.0.1', 65227)}
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 50277), 'eylï¿½l': ('127.0.0.1', 65227)}
+INFO - Public message sent: selam...
+INFO - Public msg delivered (0.001s, 0 retries)
+INFO - Public message received from eylï¿½l at ('127.0.0.1', 5000)
+INFO - Public message sent: merhaba...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from akin at ('127.0.0.1', 5000)
+INFO - Opened private chat with eylï¿½l
+INFO - P2P message sent to eylï¿½l at ('127.0.0.1', 65227): merhaba...
+INFO - P2P message received from akin at ('127.0.0.1', 50277)
+INFO - P2P message to eylï¿½l delivered (0.001s, 0 retries)
+INFO - Opened private chat with akin
+INFO - P2P message sent to akin at ('127.0.0.1', 50277): selam...
+INFO - P2P message received from eylï¿½l at ('127.0.0.1', 65227)
+INFO - P2P message to akin delivered (0.001s, 0 retries)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 50277)}
+INFO - P2P message sent to akin at ('127.0.0.1', 50277): selam...
+INFO - P2P message received from eylï¿½l at ('127.0.0.1', 65227)
+INFO - P2P message to akin delivered (0.001s, 0 retries)
+ERROR - User 'eylï¿½l' is not online or address is unknown.
+INFO - P2P message sent to akin at ('127.0.0.1', 50277): merhaba...
+INFO - P2P message received from eylï¿½l at ('127.0.0.1', 65227)
+INFO - P2P message to akin delivered (0.000s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Disconnected from server
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 50277)}
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.004s, retries: 0)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 58687)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as eylï¿½l
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 58687), 'eylï¿½l': ('127.0.0.1', 49705)}
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 58687), 'eylï¿½l': ('127.0.0.1', 49705)}
+INFO - Opened private chat with akin
+INFO - P2P message sent to akin at ('127.0.0.1', 58687): merhaba...
+INFO - P2P message received from eylï¿½l at ('127.0.0.1', 49705)
+INFO - P2P message to akin delivered (0.001s, 0 retries)
+INFO - Opened private chat with eylï¿½l
+INFO - P2P message sent to eylï¿½l at ('127.0.0.1', 49705): selam...
+INFO - P2P message received from akin at ('127.0.0.1', 58687)
+INFO - P2P message to eylï¿½l delivered (0.000s, 0 retries)
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'eylï¿½l': ('127.0.0.1', 49705)}
+INFO - Disconnected from server
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Application closing...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as sï¿½m
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876)}
+INFO - Public message sent: slm...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as sait
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message sent: assss...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from sait at ('127.0.0.1', 5000)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as bukim
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073), 'bukim': ('127.0.0.1', 56317)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073), 'bukim': ('127.0.0.1', 56317)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073), 'bukim': ('127.0.0.1', 56317)}
+INFO - Public message sent: offf...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from bukim at ('127.0.0.1', 5000)
+INFO - Public message received from bukim at ('127.0.0.1', 5000)
+INFO - Public message sent: sizene yaaaaaaaaaaaaaaaaaaaa...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from sï¿½m at ('127.0.0.1', 5000)
+INFO - Public message received from sï¿½m at ('127.0.0.1', 5000)
+INFO - Opened private chat with sait
+INFO - P2P message sent to sait at ('127.0.0.1', 54073): ï¿½zele gel...
+INFO - P2P message received from sï¿½m at ('127.0.0.1', 52876)
+INFO - P2P message to sait delivered (0.002s, 0 retries)
+INFO - Opened private chat with sï¿½m
+INFO - P2P message sent to sï¿½m at ('127.0.0.1', 52876): ï¿½zeldeyiz zten...
+INFO - P2P message received from sait at ('127.0.0.1', 54073)
+INFO - P2P message to sï¿½m delivered (0.000s, 0 retries)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message sent: fsdf...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from bukim at ('127.0.0.1', 5000)
+INFO - Public message received from bukim at ('127.0.0.1', 5000)
+INFO - Public message sent: geldim...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from bukim at ('127.0.0.1', 5000)
+INFO - Public message received from bukim at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 52876), 'sait': ('127.0.0.1', 54073)}
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Disconnected from server
+INFO - Updated user addresses: {'sait': ('127.0.0.1', 54073)}
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as sï¿½m
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 49917)}
+INFO - Attempting to connect to localhost:5000 as sait
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 49917), 'sait': ('127.0.0.1', 49918)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 49917), 'sait': ('127.0.0.1', 49918)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as osmn
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 49917), 'sait': ('127.0.0.1', 49918), 'osmn': ('127.0.0.1', 56321)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 49917), 'sait': ('127.0.0.1', 49918), 'osmn': ('127.0.0.1', 56321)}
+INFO - Updated user addresses: {'sï¿½m': ('127.0.0.1', 49917), 'sait': ('127.0.0.1', 49918), 'osmn': ('127.0.0.1', 56321)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'sait': ('127.0.0.1', 49918), 'osmn': ('127.0.0.1', 56321)}
+INFO - Updated user addresses: {'sait': ('127.0.0.1', 49918), 'osmn': ('127.0.0.1', 56321)}
+INFO - Updated user addresses: {'osmn': ('127.0.0.1', 56321)}
+INFO - Public message sent: fff...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message sent: ffff...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as süm
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 61379)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as fatima
+INFO - Connected successfully (delivery time: 0.012s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 61379), 'fatima': ('127.0.0.1', 58055)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 61379), 'fatima': ('127.0.0.1', 58055)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as osman
+INFO - Connected successfully (delivery time: 0.010s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 61379), 'fatima': ('127.0.0.1', 58055), 'osman': ('127.0.0.1', 50548)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 61379), 'fatima': ('127.0.0.1', 58055), 'osman': ('127.0.0.1', 50548)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 61379), 'fatima': ('127.0.0.1', 58055), 'osman': ('127.0.0.1', 50548)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'fatima': ('127.0.0.1', 58055), 'osman': ('127.0.0.1', 50548)}
+INFO - Updated user addresses: {'osman': ('127.0.0.1', 50548)}
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as süme
+INFO - Connected successfully (delivery time: 0.015s, retries: 0)
+INFO - Updated user addresses: {'süme': ('127.0.0.1', 49793)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as akin
+INFO - Connected successfully (delivery time: 0.009s, retries: 0)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süme': ('127.0.0.1', 49793), 'akin': ('127.0.0.1', 63289)}
+INFO - Updated user addresses: {'süme': ('127.0.0.1', 49793), 'akin': ('127.0.0.1', 63289)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as osman
+INFO - Connected successfully (delivery time: 0.010s, retries: 0)
+INFO - Updated user addresses: {'süme': ('127.0.0.1', 49793), 'akin': ('127.0.0.1', 63289), 'osman': ('127.0.0.1', 53442)}
+INFO - Updated user addresses: {'süme': ('127.0.0.1', 49793), 'akin': ('127.0.0.1', 63289), 'osman': ('127.0.0.1', 53442)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süme': ('127.0.0.1', 49793), 'akin': ('127.0.0.1', 63289), 'osman': ('127.0.0.1', 53442)}
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 63289), 'osman': ('127.0.0.1', 53442)}
+INFO - Updated user addresses: {'osman': ('127.0.0.1', 53442)}
+INFO - Updated user addresses: {'akin': ('127.0.0.1', 63289), 'osman': ('127.0.0.1', 53442)}
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as süm
+INFO - Connected successfully (delivery time: 0.010s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Heartbeat sent
+INFO - Attempting to connect to localhost:5000 as osmnn
+INFO - Connected successfully (delivery time: 0.006s, retries: 0)
+INFO - Heartbeat sent
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993)}
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: localhost:5000
+INFO - Attempting to connect to localhost:5000 as fat
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - Heartbeat sent
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993), 'fat': ('127.0.0.1', 57900)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993), 'fat': ('127.0.0.1', 57900)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993), 'fat': ('127.0.0.1', 57900)}
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993)}
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541), 'osmnn': ('127.0.0.1', 63993)}
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Disconnected from server
+INFO - Updated user addresses: {'süm': ('127.0.0.1', 51541)}
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Application closing...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as þdlsf
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'þdlsf': ('127.0.0.1', 60063)}
+INFO - Public message sent: dfsdfkjds...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as dçks
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'þdlsf': ('127.0.0.1', 60063), 'dçks': ('127.0.0.1', 53999)}
+INFO - Updated user addresses: {'þdlsf': ('127.0.0.1', 60063), 'dçks': ('127.0.0.1', 53999)}
+INFO - Heartbeat sent
+INFO - Public message sent: dçsöfmdöngsm...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from dçks at ('127.0.0.1', 5000)
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'dçks': ('127.0.0.1', 53999)}
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as mnöm
+INFO - Connected successfully (delivery time: 0.005s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'mnöm': ('127.0.0.1', 52154)}
+INFO - Public message sent: ömnmö...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Heartbeat sent
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as çdögmmmdsfs
+INFO - Connected successfully (delivery time: 0.003s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'çdögmmmdsfs': ('127.0.0.1', 63112)}
+INFO - Heartbeat sent
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as cb
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'cb': ('127.0.0.1', 56858)}
+INFO - Public message sent: dfdgfg...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as çfmgfx
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Updated user addresses: {'çfmgfx': ('127.0.0.1', 49666)}
+INFO - Public message sent: dömfösdm...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as ödsfmdm
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'ödsfmdm': ('127.0.0.1', 49809)}
+INFO - Public message sent: esdfnösmnf...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message sent: fsldknsdf...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as fdssd
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Updated user addresses: {'fdssd': ('127.0.0.1', 63808)}
+INFO - Public message sent: fdsdsfsddddddddddddddd...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Application closing...
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as esödgömsof
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'esödgömsof': ('127.0.0.1', 60016)}
+INFO - Public message sent: lsfmçdsö...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Heartbeat sent
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as çösfnd
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941)}
+INFO - Public message sent: çösfmsdöçm...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Heartbeat sent
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as 123
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696)}
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696)}
+INFO - Public message sent: merhaba...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from 123 at ('127.0.0.1', 5000)
+INFO - Heartbeat sent
+INFO - Modern Chat Client initialized
+INFO - Configuration loaded: 127.0.0.1:5000
+INFO - Attempting to connect to 127.0.0.1:5000 as 789
+INFO - Connected successfully (delivery time: 0.000s, retries: 0)
+INFO - Heartbeat sent
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696), '789': ('127.0.0.1', 58125)}
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696), '789': ('127.0.0.1', 58125)}
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696), '789': ('127.0.0.1', 58125)}
+INFO - Public message sent: slmmm...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from 789 at ('127.0.0.1', 5000)
+INFO - Public message received from 789 at ('127.0.0.1', 5000)
+INFO - Heartbeat sent
+INFO - Opened private chat with 123
+INFO - P2P message sent to 123 at ('127.0.0.1', 53696): aslþfadf...
+INFO - P2P message received from çösfnd at ('127.0.0.1', 50941)
+INFO - P2P message to 123 delivered (0.012s, 0 retries)
+INFO - Opened private chat with çösfnd
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - P2P message sent to çösfnd at ('127.0.0.1', 50941): þflklldldldldldl...
+INFO - P2P message received from 123 at ('127.0.0.1', 53696)
+INFO - P2P message to çösfnd delivered (0.000s, 0 retries)
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Public message sent: jchasöfad...
+INFO - Public msg delivered (0.000s, 0 retries)
+INFO - Public message received from çösfnd at ('127.0.0.1', 5000)
+INFO - Public message received from çösfnd at ('127.0.0.1', 5000)
+INFO - Heartbeat sent
+INFO - Opened private chat with 789
+INFO - P2P message sent to 789 at ('127.0.0.1', 58125): napion...
+INFO - P2P message received from çösfnd at ('127.0.0.1', 50941)
+INFO - P2P message to 789 delivered (0.000s, 0 retries)
+INFO - Opened private chat with çösfnd
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - Heartbeat sent
+INFO - P2P message sent to çösfnd at ('127.0.0.1', 50941): çösfzmö...
+INFO - P2P message received from 789 at ('127.0.0.1', 58125)
+INFO - P2P message to çösfnd delivered (0.012s, 0 retries)
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Disconnected from server
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696)}
+INFO - Updated user addresses: {'çösfnd': ('127.0.0.1', 50941), '123': ('127.0.0.1', 53696)}
+INFO - Heartbeat sent
+ERROR - User '789' is not online or address is unknown.
+INFO - Heartbeat sent
+INFO - P2P message sent to 123 at ('127.0.0.1', 53696): mhn...
+INFO - P2P message received from çösfnd at ('127.0.0.1', 50941)
+INFO - P2P message to 123 delivered (0.000s, 0 retries)
+INFO - Heartbeat sent
+ERROR - User '789' is not online or address is unknown.
+INFO - P2P message sent to 123 at ('127.0.0.1', 53696): .çöççömöçm...
+INFO - P2P message received from çösfnd at ('127.0.0.1', 50941)
+INFO - P2P message to 123 delivered (0.000s, 0 retries)
+INFO - Heartbeat sent
+INFO - Disconnecting from server...
+INFO - Public message received from server at ('127.0.0.1', 5000)
+INFO - Updated user addresses: {'123': ('127.0.0.1', 53696)}
+INFO - Disconnected from server
+INFO - Application closing...
+INFO - Disconnecting from server...
+INFO - Disconnected from server
+INFO - Application closing...

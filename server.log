@@ -1,0 +1,966 @@
+2025-06-03 15:27:33,341 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 15:30:12,823 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 15:35:59,638 - ChatServer - INFO - User ali joined from ('127.0.0.1', 56656)
+2025-06-03 15:35:59,639 - ReliableUDP - INFO - Sent reliable message 2621784f-e926-4b9c-a379-632203cc42d0 to ('127.0.0.1', 56656)
+2025-06-03 15:35:59,645 - ReliableUDP - INFO - ACK received for message 2621784f-e926-4b9c-a379-632203cc42d0, delivery time: 0.006s
+2025-06-03 15:36:07,533 - ChatServer - INFO - Message from ali: mesaj
+2025-06-03 15:36:46,191 - ChatServer - INFO - Message from ali: deneme
+2025-06-03 15:37:29,055 - ChatServer - INFO - User d joined from ('127.0.0.1', 50495)
+2025-06-03 15:37:29,063 - ReliableUDP - INFO - Sent reliable message c5e792f7-590b-472b-b490-c33d60bb3fba to ('127.0.0.1', 56656)
+2025-06-03 15:37:29,064 - ReliableUDP - INFO - Sent reliable message c5e792f7-590b-472b-b490-c33d60bb3fba to ('127.0.0.1', 50495)
+2025-06-03 15:37:29,065 - ReliableUDP - INFO - Sent reliable message 552f39ef-ed2d-40c8-8bef-15111c6ea126 to ('127.0.0.1', 56656)
+2025-06-03 15:37:29,067 - ReliableUDP - INFO - ACK received for message c5e792f7-590b-472b-b490-c33d60bb3fba, delivery time: 0.003s
+2025-06-03 15:37:29,068 - ReliableUDP - INFO - ACK received for message 552f39ef-ed2d-40c8-8bef-15111c6ea126, delivery time: 0.003s
+2025-06-03 15:37:36,594 - ChatServer - INFO - Message from d: denemee
+2025-06-03 15:37:36,594 - ReliableUDP - INFO - Sent reliable message ec868e1e-ebf3-425a-84fd-1db2adf047b3 to ('127.0.0.1', 56656)
+2025-06-03 15:37:36,596 - ReliableUDP - INFO - ACK received for message ec868e1e-ebf3-425a-84fd-1db2adf047b3, delivery time: 0.002s
+2025-06-03 15:37:53,052 - ChatServer - INFO - Message from ali: jsdfj
+2025-06-03 15:37:53,053 - ReliableUDP - INFO - Sent reliable message 9298bcb7-e0ad-4cbd-b528-296e32cc93d3 to ('127.0.0.1', 50495)
+2025-06-03 15:37:53,054 - ReliableUDP - INFO - ACK received for message 9298bcb7-e0ad-4cbd-b528-296e32cc93d3, delivery time: 0.002s
+2025-06-03 15:38:34,506 - ChatServer - INFO - User s joined from ('127.0.0.1', 49318)
+2025-06-03 15:38:34,507 - ReliableUDP - INFO - Sent reliable message 83218797-1c28-4ee8-9006-78cc0e50664d to ('127.0.0.1', 56656)
+2025-06-03 15:38:34,508 - ReliableUDP - INFO - Sent reliable message 83218797-1c28-4ee8-9006-78cc0e50664d to ('127.0.0.1', 50495)
+2025-06-03 15:38:34,508 - ReliableUDP - INFO - Sent reliable message 83218797-1c28-4ee8-9006-78cc0e50664d to ('127.0.0.1', 49318)
+2025-06-03 15:38:34,509 - ReliableUDP - INFO - Sent reliable message 28c9392e-6b66-4d8d-a725-f56abc47667f to ('127.0.0.1', 56656)
+2025-06-03 15:38:34,509 - ReliableUDP - INFO - Sent reliable message 28c9392e-6b66-4d8d-a725-f56abc47667f to ('127.0.0.1', 50495)
+2025-06-03 15:38:34,509 - ReliableUDP - INFO - ACK received for message 83218797-1c28-4ee8-9006-78cc0e50664d, delivery time: 0.001s
+2025-06-03 15:38:34,510 - ReliableUDP - INFO - ACK received for message 28c9392e-6b66-4d8d-a725-f56abc47667f, delivery time: 0.002s
+2025-06-03 15:38:40,810 - ChatServer - INFO - Message from s: aliye
+2025-06-03 15:38:40,810 - ReliableUDP - INFO - Sent reliable message 08b06026-cdb5-4c68-9068-5f505e380444 to ('127.0.0.1', 56656)
+2025-06-03 15:38:40,811 - ReliableUDP - INFO - Sent reliable message 08b06026-cdb5-4c68-9068-5f505e380444 to ('127.0.0.1', 50495)
+2025-06-03 15:38:40,813 - ReliableUDP - INFO - ACK received for message 08b06026-cdb5-4c68-9068-5f505e380444, delivery time: 0.001s
+2025-06-03 15:39:42,837 - ChatServer - WARNING - Removing inactive user: ali
+2025-06-03 15:39:42,838 - ReliableUDP - INFO - Sent reliable message 15f2ea32-c867-4af3-b647-dab429b49228 to ('127.0.0.1', 50495)
+2025-06-03 15:39:42,839 - ReliableUDP - INFO - Sent reliable message 15f2ea32-c867-4af3-b647-dab429b49228 to ('127.0.0.1', 49318)
+2025-06-03 15:39:42,840 - ReliableUDP - INFO - Sent reliable message 251737af-40ed-4445-b90f-417b7d4e3980 to ('127.0.0.1', 50495)
+2025-06-03 15:39:42,840 - ReliableUDP - INFO - ACK received for message 15f2ea32-c867-4af3-b647-dab429b49228, delivery time: 0.001s
+2025-06-03 15:39:42,841 - ReliableUDP - INFO - Sent reliable message 251737af-40ed-4445-b90f-417b7d4e3980 to ('127.0.0.1', 49318)
+2025-06-03 15:39:42,842 - ChatServer - WARNING - Removing inactive user: d
+2025-06-03 15:39:42,843 - ReliableUDP - INFO - Sent reliable message c7669640-75b4-4edc-bc60-a735bbcb6a21 to ('127.0.0.1', 49318)
+2025-06-03 15:39:42,844 - ReliableUDP - INFO - Sent reliable message 273f14cb-68a6-4162-9a48-018890b33a53 to ('127.0.0.1', 49318)
+2025-06-03 15:39:42,844 - ReliableUDP - INFO - ACK received for message 251737af-40ed-4445-b90f-417b7d4e3980, delivery time: 0.003s
+2025-06-03 15:39:42,846 - ReliableUDP - INFO - ACK received for message c7669640-75b4-4edc-bc60-a735bbcb6a21, delivery time: 0.003s
+2025-06-03 15:39:42,848 - ReliableUDP - INFO - ACK received for message 273f14cb-68a6-4162-9a48-018890b33a53, delivery time: 0.005s
+2025-06-03 15:39:46,089 - ChatServer - INFO - User d left the chat
+2025-06-03 15:39:46,090 - ReliableUDP - INFO - Sent reliable message 0641ce4d-4368-455c-b58f-26bbee7146f0 to ('127.0.0.1', 49318)
+2025-06-03 15:39:46,090 - ReliableUDP - INFO - Sent reliable message 8f2d99f8-548a-49a5-ad76-ed53eff5c5ed to ('127.0.0.1', 49318)
+2025-06-03 15:39:46,091 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:39:46,091 - ReliableUDP - INFO - ACK received for message 0641ce4d-4368-455c-b58f-26bbee7146f0, delivery time: 0.001s
+2025-06-03 15:39:46,093 - ReliableUDP - INFO - ACK received for message 8f2d99f8-548a-49a5-ad76-ed53eff5c5ed, delivery time: 0.003s
+2025-06-03 15:39:49,072 - ChatServer - INFO - User s left the chat
+2025-06-03 15:39:49,073 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:39:50,837 - ChatServer - INFO - User ali left the chat
+2025-06-03 15:39:50,837 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:52:52,191 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 15:53:11,034 - ChatServer - INFO - User f joined from ('127.0.0.1', 59471)
+2025-06-03 15:53:11,035 - ReliableUDP - INFO - Sent reliable message 38747b1f-0dbd-4400-a5c9-8b123f25b8f4 to ('127.0.0.1', 59471)
+2025-06-03 15:53:11,092 - ReliableUDP - INFO - ACK received for message 38747b1f-0dbd-4400-a5c9-8b123f25b8f4, delivery time: 0.057s
+2025-06-03 15:53:22,607 - ChatServer - INFO - Message from f: dddddd
+2025-06-03 15:54:39,486 - ChatServer - INFO - User feer joined from ('127.0.0.1', 64300)
+2025-06-03 15:54:39,487 - ReliableUDP - INFO - Sent reliable message 2d788df1-2e0a-431c-9bc2-ed481eba1754 to ('127.0.0.1', 59471)
+2025-06-03 15:54:39,487 - ReliableUDP - INFO - Sent reliable message 2d788df1-2e0a-431c-9bc2-ed481eba1754 to ('127.0.0.1', 64300)
+2025-06-03 15:54:39,488 - ReliableUDP - INFO - Sent reliable message faf5f14e-59b6-4eeb-87a1-7d77f8ff0893 to ('127.0.0.1', 59471)
+2025-06-03 15:54:39,488 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:54:39,489 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:54:39,538 - ReliableUDP - INFO - ACK received for message 2d788df1-2e0a-431c-9bc2-ed481eba1754, delivery time: 0.051s
+2025-06-03 15:54:42,510 - ReliableUDP - WARNING - Retransmitting message faf5f14e-59b6-4eeb-87a1-7d77f8ff0893 (attempt 1)
+2025-06-03 15:54:42,512 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:54:45,535 - ReliableUDP - WARNING - Retransmitting message faf5f14e-59b6-4eeb-87a1-7d77f8ff0893 (attempt 2)
+2025-06-03 15:54:45,538 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:54:48,566 - ReliableUDP - WARNING - Retransmitting message faf5f14e-59b6-4eeb-87a1-7d77f8ff0893 (attempt 3)
+2025-06-03 15:54:48,567 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:54:51,586 - ReliableUDP - ERROR - Message faf5f14e-59b6-4eeb-87a1-7d77f8ff0893 timed out after 3 retries
+2025-06-03 15:54:51,586 - ChatServer - ERROR - Failed to deliver message to feer
+2025-06-03 15:54:52,195 - ChatServer - WARNING - Removing inactive user: f
+2025-06-03 15:54:52,197 - ReliableUDP - INFO - Sent reliable message 15c07747-27ea-4039-9974-f4677e644494 to ('127.0.0.1', 64300)
+2025-06-03 15:54:52,198 - ReliableUDP - INFO - Sent reliable message 7b25a7a6-5a19-466e-91d9-6bf445b61c13 to ('127.0.0.1', 64300)
+2025-06-03 15:54:52,199 - ReliableUDP - INFO - ACK received for message 15c07747-27ea-4039-9974-f4677e644494, delivery time: 0.002s
+2025-06-03 15:54:52,202 - ReliableUDP - INFO - ACK received for message 7b25a7a6-5a19-466e-91d9-6bf445b61c13, delivery time: 0.005s
+2025-06-03 15:55:26,739 - ChatServer - INFO - Message from feer: k
+2025-06-03 15:56:52,201 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 15:58:39,599 - ChatServer - INFO - User g joined from ('127.0.0.1', 61862)
+2025-06-03 15:58:39,600 - ReliableUDP - INFO - Sent reliable message ba0ee92d-bfec-4cb3-9762-323ef304ff62 to ('127.0.0.1', 61862)
+2025-06-03 15:58:39,652 - ReliableUDP - INFO - ACK received for message ba0ee92d-bfec-4cb3-9762-323ef304ff62, delivery time: 0.052s
+2025-06-03 15:58:57,699 - ChatServer - INFO - Message from g: s
+2025-06-03 15:59:50,537 - ChatServer - INFO - User feer left the chat
+2025-06-03 15:59:50,538 - ReliableUDP - INFO - Sent reliable message af9685be-dfdf-4fa5-875f-b9db89c3e0c6 to ('127.0.0.1', 61862)
+2025-06-03 15:59:50,539 - ReliableUDP - INFO - Sent reliable message 6863d595-55ed-4bdc-8396-adfbe4478912 to ('127.0.0.1', 61862)
+2025-06-03 15:59:50,539 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 15:59:53,595 - ReliableUDP - WARNING - Retransmitting message af9685be-dfdf-4fa5-875f-b9db89c3e0c6 (attempt 1)
+2025-06-03 15:59:53,596 - ReliableUDP - WARNING - Retransmitting message 6863d595-55ed-4bdc-8396-adfbe4478912 (attempt 1)
+2025-06-03 15:59:56,630 - ReliableUDP - WARNING - Retransmitting message af9685be-dfdf-4fa5-875f-b9db89c3e0c6 (attempt 2)
+2025-06-03 15:59:56,631 - ReliableUDP - WARNING - Retransmitting message 6863d595-55ed-4bdc-8396-adfbe4478912 (attempt 2)
+2025-06-03 15:59:59,650 - ReliableUDP - WARNING - Retransmitting message af9685be-dfdf-4fa5-875f-b9db89c3e0c6 (attempt 3)
+2025-06-03 15:59:59,652 - ReliableUDP - WARNING - Retransmitting message 6863d595-55ed-4bdc-8396-adfbe4478912 (attempt 3)
+2025-06-03 16:00:02,669 - ReliableUDP - ERROR - Message af9685be-dfdf-4fa5-875f-b9db89c3e0c6 timed out after 3 retries
+2025-06-03 16:00:02,670 - ReliableUDP - ERROR - Message 6863d595-55ed-4bdc-8396-adfbe4478912 timed out after 3 retries
+2025-06-03 16:00:02,670 - ChatServer - ERROR - Failed to deliver message to g
+2025-06-03 16:00:22,205 - ChatServer - WARNING - Removing inactive user: g
+2025-06-03 16:00:52,207 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:01:22,211 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:01:52,212 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:02:22,213 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:02:52,216 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:03:22,217 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:03:52,220 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:04:22,224 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:04:52,226 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:05:22,228 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:05:52,230 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:06:22,231 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:06:52,232 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:07:22,233 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:13:55,225 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:14:25,227 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:14:55,228 - ChatServer - WARNING - Removing inactive user: feer
+2025-06-03 16:16:19,107 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 16:16:40,253 - ChatServer - INFO - User fff joined from ('127.0.0.1', 54471)
+2025-06-03 16:16:40,253 - ReliableUDP - INFO - Sent reliable message a373a58d-0fb7-4227-9644-a8c140cc6eb0 to ('127.0.0.1', 54471)
+2025-06-03 16:16:40,316 - ReliableUDP - INFO - ACK received for message a373a58d-0fb7-4227-9644-a8c140cc6eb0, delivery time: 0.063s
+2025-06-03 16:16:47,292 - ChatServer - INFO - Message from fff: slm
+2025-06-03 16:17:28,948 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 16:18:00,504 - ChatServer - INFO - User bir joined from ('127.0.0.1', 53264)
+2025-06-03 16:18:00,505 - ReliableUDP - INFO - Sent reliable message 649f6680-e900-45d4-ad27-c33a3cdcaafa to ('127.0.0.1', 53264)
+2025-06-03 16:18:00,562 - ReliableUDP - INFO - ACK received for message 649f6680-e900-45d4-ad27-c33a3cdcaafa, delivery time: 0.058s
+2025-06-03 16:18:09,778 - ChatServer - INFO - User iki joined from ('127.0.0.1', 60103)
+2025-06-03 16:18:09,779 - ReliableUDP - INFO - Sent reliable message 9b6efe02-f011-40f8-a8c4-ced397d7d5c0 to ('127.0.0.1', 53264)
+2025-06-03 16:18:09,779 - ReliableUDP - INFO - Sent reliable message 9b6efe02-f011-40f8-a8c4-ced397d7d5c0 to ('127.0.0.1', 60103)
+2025-06-03 16:18:09,780 - ReliableUDP - INFO - Sent reliable message 72d9f6b4-28b3-4e67-a4e5-3be54a733523 to ('127.0.0.1', 53264)
+2025-06-03 16:18:09,780 - ReliableUDP - INFO - ACK received for message 9b6efe02-f011-40f8-a8c4-ced397d7d5c0, delivery time: 0.001s
+2025-06-03 16:18:09,783 - ReliableUDP - INFO - ACK received for message 72d9f6b4-28b3-4e67-a4e5-3be54a733523, delivery time: 0.003s
+2025-06-03 16:18:18,376 - ChatServer - INFO - Message from iki: iki mesaj
+2025-06-03 16:18:18,377 - ReliableUDP - INFO - Sent reliable message cd44fb4c-2cfb-41ba-a817-fe91786e24d8 to ('127.0.0.1', 53264)
+2025-06-03 16:18:18,378 - ReliableUDP - INFO - ACK received for message cd44fb4c-2cfb-41ba-a817-fe91786e24d8, delivery time: 0.002s
+2025-06-03 16:19:28,952 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:19:28,954 - ReliableUDP - INFO - Sent reliable message 71e01b9c-d44b-45b3-8c96-e9d8b8180b49 to ('127.0.0.1', 60103)
+2025-06-03 16:19:28,955 - ReliableUDP - INFO - Sent reliable message 95f941fa-86af-4751-892c-4f69da7e6857 to ('127.0.0.1', 60103)
+2025-06-03 16:19:28,955 - ChatServer - WARNING - Removing inactive user: iki
+2025-06-03 16:19:30,064 - ChatServer - INFO - User bir left the chat
+2025-06-03 16:19:30,065 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 16:19:31,976 - ReliableUDP - WARNING - Retransmitting message 71e01b9c-d44b-45b3-8c96-e9d8b8180b49 (attempt 1)
+2025-06-03 16:19:31,978 - ReliableUDP - WARNING - Retransmitting message 95f941fa-86af-4751-892c-4f69da7e6857 (attempt 1)
+2025-06-03 16:19:34,991 - ReliableUDP - WARNING - Retransmitting message 71e01b9c-d44b-45b3-8c96-e9d8b8180b49 (attempt 2)
+2025-06-03 16:19:34,992 - ReliableUDP - WARNING - Retransmitting message 95f941fa-86af-4751-892c-4f69da7e6857 (attempt 2)
+2025-06-03 16:19:38,007 - ReliableUDP - WARNING - Retransmitting message 71e01b9c-d44b-45b3-8c96-e9d8b8180b49 (attempt 3)
+2025-06-03 16:19:38,008 - ReliableUDP - WARNING - Retransmitting message 95f941fa-86af-4751-892c-4f69da7e6857 (attempt 3)
+2025-06-03 16:19:41,023 - ReliableUDP - ERROR - Message 71e01b9c-d44b-45b3-8c96-e9d8b8180b49 timed out after 3 retries
+2025-06-03 16:19:41,024 - ReliableUDP - ERROR - Message 95f941fa-86af-4751-892c-4f69da7e6857 timed out after 3 retries
+2025-06-03 16:19:41,025 - ChatServer - ERROR - Failed to deliver message to iki
+2025-06-03 16:20:58,964 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:21:28,964 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:21:58,965 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:22:28,966 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:22:58,968 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:23:28,969 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:23:58,970 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:24:28,972 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:24:58,979 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:25:28,983 - ChatServer - WARNING - Removing inactive user: bir
+2025-06-03 16:26:04,020 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 16:26:19,006 - ChatServer - INFO - User birki joined from ('127.0.0.1', 58222)
+2025-06-03 16:26:19,007 - ReliableUDP - INFO - Sent reliable message c51235f3-3f03-43ab-b2f6-87ec3dfdc6a7 to ('127.0.0.1', 58222)
+2025-06-03 16:26:19,059 - ReliableUDP - INFO - ACK received for message c51235f3-3f03-43ab-b2f6-87ec3dfdc6a7, delivery time: 0.052s
+2025-06-03 16:26:25,217 - ChatServer - INFO - Message from birki: mesaj
+2025-06-03 16:27:59,231 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 16:28:22,404 - ChatServer - INFO - User n joined from ('127.0.0.1', 60299)
+2025-06-03 16:28:22,404 - ReliableUDP - INFO - Sent reliable message 48663407-7fc6-4668-b227-899752378501 to ('127.0.0.1', 60299)
+2025-06-03 16:28:22,405 - ReliableUDP - INFO - ACK received for message 48663407-7fc6-4668-b227-899752378501, delivery time: 0.001s
+2025-06-03 16:28:27,220 - ChatServer - INFO - Message from n: dn
+2025-06-03 16:28:51,621 - ChatServer - INFO - User zf joined from ('127.0.0.1', 51280)
+2025-06-03 16:28:51,622 - ReliableUDP - INFO - Sent reliable message e13d92b1-c4a4-4392-9c3b-d1fc550a18c4 to ('127.0.0.1', 60299)
+2025-06-03 16:28:51,623 - ReliableUDP - INFO - Sent reliable message e13d92b1-c4a4-4392-9c3b-d1fc550a18c4 to ('127.0.0.1', 51280)
+2025-06-03 16:28:51,624 - ReliableUDP - INFO - Sent reliable message 4bc354c3-c34a-4bfc-a8a4-2439ac59a5e9 to ('127.0.0.1', 60299)
+2025-06-03 16:28:51,625 - ReliableUDP - INFO - ACK received for message e13d92b1-c4a4-4392-9c3b-d1fc550a18c4, delivery time: 0.002s
+2025-06-03 16:28:51,625 - ReliableUDP - INFO - ACK received for message 4bc354c3-c34a-4bfc-a8a4-2439ac59a5e9, delivery time: 0.002s
+2025-06-03 16:28:55,475 - ChatServer - INFO - Message from zf: ss
+2025-06-03 16:28:55,475 - ReliableUDP - INFO - Sent reliable message b35ad68f-856e-4767-af38-36356695ab15 to ('127.0.0.1', 60299)
+2025-06-03 16:28:55,476 - ReliableUDP - INFO - ACK received for message b35ad68f-856e-4767-af38-36356695ab15, delivery time: 0.001s
+2025-06-03 16:29:20,380 - ChatServer - INFO - Message from n: dfdf
+2025-06-03 16:29:20,381 - ReliableUDP - INFO - Sent reliable message f93d87ef-fab9-4b36-9c51-fc04e468f79a to ('127.0.0.1', 51280)
+2025-06-03 16:29:20,382 - ReliableUDP - INFO - ACK received for message f93d87ef-fab9-4b36-9c51-fc04e468f79a, delivery time: 0.002s
+2025-06-03 16:29:31,813 - ChatServer - INFO - Message from zf: aaaaaaa
+2025-06-03 16:29:31,814 - ReliableUDP - INFO - Sent reliable message daa4a51a-e1e0-4830-b63e-3356643f06eb to ('127.0.0.1', 60299)
+2025-06-03 16:29:31,815 - ReliableUDP - INFO - ACK received for message daa4a51a-e1e0-4830-b63e-3356643f06eb, delivery time: 0.001s
+2025-06-03 16:30:42,322 - ChatServer - INFO - User osman joined from ('127.0.0.1', 49665)
+2025-06-03 16:30:42,323 - ReliableUDP - INFO - Sent reliable message b0f39c48-bcd1-4fed-b241-992aa8b9e22a to ('127.0.0.1', 60299)
+2025-06-03 16:30:42,325 - ReliableUDP - INFO - Sent reliable message b0f39c48-bcd1-4fed-b241-992aa8b9e22a to ('127.0.0.1', 51280)
+2025-06-03 16:30:42,326 - ReliableUDP - INFO - Sent reliable message b0f39c48-bcd1-4fed-b241-992aa8b9e22a to ('127.0.0.1', 49665)
+2025-06-03 16:30:42,326 - ReliableUDP - INFO - Sent reliable message c40dba00-4ab1-4bd1-a70d-adab6b272b38 to ('127.0.0.1', 60299)
+2025-06-03 16:30:42,327 - ReliableUDP - INFO - Sent reliable message c40dba00-4ab1-4bd1-a70d-adab6b272b38 to ('127.0.0.1', 51280)
+2025-06-03 16:30:42,328 - ReliableUDP - INFO - ACK received for message b0f39c48-bcd1-4fed-b241-992aa8b9e22a, delivery time: 0.002s
+2025-06-03 16:30:42,328 - ReliableUDP - INFO - ACK received for message c40dba00-4ab1-4bd1-a70d-adab6b272b38, delivery time: 0.001s
+2025-06-03 16:30:51,889 - ChatServer - INFO - Message from osman: osman mesaj attý
+2025-06-03 16:30:51,889 - ReliableUDP - INFO - Sent reliable message 6f6d4065-ac4c-4827-8d1a-ee9a7dae0c08 to ('127.0.0.1', 60299)
+2025-06-03 16:30:51,890 - ReliableUDP - INFO - Sent reliable message 6f6d4065-ac4c-4827-8d1a-ee9a7dae0c08 to ('127.0.0.1', 51280)
+2025-06-03 16:30:51,891 - ReliableUDP - INFO - ACK received for message 6f6d4065-ac4c-4827-8d1a-ee9a7dae0c08, delivery time: 0.001s
+2025-06-03 16:31:59,237 - ChatServer - WARNING - Removing inactive user: zf
+2025-06-03 16:31:59,238 - ReliableUDP - INFO - Sent reliable message 74133cb2-2216-4f7f-897c-620effa6be8c to ('127.0.0.1', 60299)
+2025-06-03 16:31:59,240 - ReliableUDP - INFO - Sent reliable message 74133cb2-2216-4f7f-897c-620effa6be8c to ('127.0.0.1', 49665)
+2025-06-03 16:31:59,240 - ReliableUDP - INFO - ACK received for message 74133cb2-2216-4f7f-897c-620effa6be8c, delivery time: 0.001s
+2025-06-03 16:31:59,241 - ReliableUDP - INFO - Sent reliable message e10ddcb1-8185-4938-8842-6391bea60581 to ('127.0.0.1', 60299)
+2025-06-03 16:31:59,243 - ReliableUDP - INFO - Sent reliable message e10ddcb1-8185-4938-8842-6391bea60581 to ('127.0.0.1', 49665)
+2025-06-03 16:31:59,243 - ReliableUDP - INFO - ACK received for message e10ddcb1-8185-4938-8842-6391bea60581, delivery time: 0.001s
+2025-06-03 16:32:04,709 - ChatServer - INFO - User zf left the chat
+2025-06-03 16:32:04,710 - ReliableUDP - INFO - Sent reliable message cac84d79-7fc3-467f-8e73-e65a5617a3e9 to ('127.0.0.1', 60299)
+2025-06-03 16:32:04,711 - ReliableUDP - INFO - Sent reliable message cac84d79-7fc3-467f-8e73-e65a5617a3e9 to ('127.0.0.1', 49665)
+2025-06-03 16:32:04,712 - ReliableUDP - INFO - Sent reliable message 251dcbf6-d3cf-4881-9d9c-a1e32add4425 to ('127.0.0.1', 60299)
+2025-06-03 16:32:04,712 - ReliableUDP - INFO - Sent reliable message 251dcbf6-d3cf-4881-9d9c-a1e32add4425 to ('127.0.0.1', 49665)
+2025-06-03 16:32:04,713 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 16:32:04,713 - ReliableUDP - INFO - ACK received for message cac84d79-7fc3-467f-8e73-e65a5617a3e9, delivery time: 0.003s
+2025-06-03 16:32:04,714 - ReliableUDP - INFO - ACK received for message 251dcbf6-d3cf-4881-9d9c-a1e32add4425, delivery time: 0.002s
+2025-06-03 16:32:07,926 - ChatServer - INFO - User osman left the chat
+2025-06-03 16:32:07,927 - ReliableUDP - INFO - Sent reliable message 645ce304-f23c-4b75-83b5-76e0ad610463 to ('127.0.0.1', 60299)
+2025-06-03 16:32:07,928 - ReliableUDP - INFO - Sent reliable message 11c7e35d-ec32-4239-b1d5-adfca955b415 to ('127.0.0.1', 60299)
+2025-06-03 16:32:07,928 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 16:32:07,929 - ReliableUDP - INFO - ACK received for message 645ce304-f23c-4b75-83b5-76e0ad610463, delivery time: 0.002s
+2025-06-03 16:32:07,930 - ReliableUDP - INFO - ACK received for message 11c7e35d-ec32-4239-b1d5-adfca955b415, delivery time: 0.003s
+2025-06-03 16:32:18,672 - ChatServer - INFO - User n left the chat
+2025-06-03 16:32:18,674 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 17:02:02,703 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-03 17:02:52,535 - ChatServer - INFO - User h joined from ('127.0.0.1', 60197)
+2025-06-03 17:02:52,537 - ReliableUDP - INFO - Sent reliable message c61f2e4e-585b-4c3e-a4d5-599d50d979d2 to ('127.0.0.1', 60197)
+2025-06-03 17:02:52,537 - ReliableUDP - INFO - ACK received for message c61f2e4e-585b-4c3e-a4d5-599d50d979d2, delivery time: 0.001s
+2025-06-03 17:03:21,741 - ChatServer - INFO - User ee joined from ('127.0.0.1', 60626)
+2025-06-03 17:03:21,742 - ReliableUDP - INFO - Sent reliable message 02c41ed1-3ef3-4907-ad92-3c702d3b9a43 to ('127.0.0.1', 60197)
+2025-06-03 17:03:21,743 - ReliableUDP - INFO - Sent reliable message 02c41ed1-3ef3-4907-ad92-3c702d3b9a43 to ('127.0.0.1', 60626)
+2025-06-03 17:03:21,743 - ReliableUDP - INFO - Sent reliable message a76f6fe9-efb4-40ab-a868-89abe4f68934 to ('127.0.0.1', 60197)
+2025-06-03 17:03:21,744 - ReliableUDP - INFO - ACK received for message 02c41ed1-3ef3-4907-ad92-3c702d3b9a43, delivery time: 0.001s
+2025-06-03 17:03:21,744 - ReliableUDP - INFO - ACK received for message a76f6fe9-efb4-40ab-a868-89abe4f68934, delivery time: 0.001s
+2025-06-03 17:03:42,554 - ChatServer - INFO - User rr joined from ('127.0.0.1', 59169)
+2025-06-03 17:03:42,555 - ReliableUDP - INFO - Sent reliable message 0f45f3d4-e5d3-4b8e-92a6-3b2cfd4ec032 to ('127.0.0.1', 60197)
+2025-06-03 17:03:42,555 - ReliableUDP - INFO - Sent reliable message 0f45f3d4-e5d3-4b8e-92a6-3b2cfd4ec032 to ('127.0.0.1', 60626)
+2025-06-03 17:03:42,556 - ReliableUDP - INFO - Sent reliable message 0f45f3d4-e5d3-4b8e-92a6-3b2cfd4ec032 to ('127.0.0.1', 59169)
+2025-06-03 17:03:42,556 - ReliableUDP - INFO - Sent reliable message 60dfb299-fbba-4f1b-b0eb-52a576e93a80 to ('127.0.0.1', 60197)
+2025-06-03 17:03:42,556 - ReliableUDP - INFO - Sent reliable message 60dfb299-fbba-4f1b-b0eb-52a576e93a80 to ('127.0.0.1', 60626)
+2025-06-03 17:03:42,557 - ReliableUDP - INFO - ACK received for message 0f45f3d4-e5d3-4b8e-92a6-3b2cfd4ec032, delivery time: 0.003s
+2025-06-03 17:03:42,557 - ReliableUDP - INFO - ACK received for message 60dfb299-fbba-4f1b-b0eb-52a576e93a80, delivery time: 0.001s
+2025-06-03 17:03:49,679 - ChatServer - INFO - Message from rr: safsf
+2025-06-03 17:03:49,679 - ReliableUDP - INFO - Sent reliable message b0d9105b-59d2-4e73-a1fc-6d2863a555f6 to ('127.0.0.1', 60197)
+2025-06-03 17:03:49,680 - ReliableUDP - INFO - Sent reliable message b0d9105b-59d2-4e73-a1fc-6d2863a555f6 to ('127.0.0.1', 60626)
+2025-06-03 17:03:49,681 - ReliableUDP - INFO - ACK received for message b0d9105b-59d2-4e73-a1fc-6d2863a555f6, delivery time: 0.001s
+2025-06-03 17:04:09,877 - ChatServer - INFO - Private message from rr to ee: safasdfsdaf
+2025-06-03 17:04:09,878 - ReliableUDP - INFO - Sent reliable message 1228e03c-a38f-4317-80f7-7e1ebbe4eacf to ('127.0.0.1', 60626)
+2025-06-03 17:04:09,879 - ReliableUDP - INFO - ACK received for message 1228e03c-a38f-4317-80f7-7e1ebbe4eacf, delivery time: 0.001s
+2025-06-03 17:05:02,708 - ChatServer - WARNING - Removing inactive user: h
+2025-06-03 17:05:02,709 - ReliableUDP - INFO - Sent reliable message ae4c398c-f157-40ef-b790-af4a11e18738 to ('127.0.0.1', 60626)
+2025-06-03 17:05:02,710 - ReliableUDP - INFO - Sent reliable message ae4c398c-f157-40ef-b790-af4a11e18738 to ('127.0.0.1', 59169)
+2025-06-03 17:05:02,711 - ReliableUDP - INFO - Sent reliable message 7091a733-1f0a-49f1-9aa2-b3911e2b8c2f to ('127.0.0.1', 60626)
+2025-06-03 17:05:02,712 - ReliableUDP - INFO - ACK received for message ae4c398c-f157-40ef-b790-af4a11e18738, delivery time: 0.002s
+2025-06-03 17:05:02,713 - ReliableUDP - INFO - Sent reliable message 7091a733-1f0a-49f1-9aa2-b3911e2b8c2f to ('127.0.0.1', 59169)
+2025-06-03 17:05:02,714 - ReliableUDP - INFO - ACK received for message 7091a733-1f0a-49f1-9aa2-b3911e2b8c2f, delivery time: 0.001s
+2025-06-03 17:05:08,176 - ChatServer - INFO - User h left the chat
+2025-06-03 17:05:08,177 - ReliableUDP - INFO - Sent reliable message b080c395-0298-4ab4-9144-6667e378affc to ('127.0.0.1', 60626)
+2025-06-03 17:05:08,178 - ReliableUDP - INFO - Sent reliable message b080c395-0298-4ab4-9144-6667e378affc to ('127.0.0.1', 59169)
+2025-06-03 17:05:08,179 - ReliableUDP - INFO - Sent reliable message e977781d-a8e3-4d3c-9fae-3a7ed45cca0e to ('127.0.0.1', 60626)
+2025-06-03 17:05:08,180 - ReliableUDP - INFO - Sent reliable message e977781d-a8e3-4d3c-9fae-3a7ed45cca0e to ('127.0.0.1', 59169)
+2025-06-03 17:05:08,180 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 17:05:08,181 - ReliableUDP - INFO - ACK received for message b080c395-0298-4ab4-9144-6667e378affc, delivery time: 0.004s
+2025-06-03 17:05:08,181 - ReliableUDP - INFO - ACK received for message e977781d-a8e3-4d3c-9fae-3a7ed45cca0e, delivery time: 0.001s
+2025-06-03 17:05:13,361 - ChatServer - INFO - User ee left the chat
+2025-06-03 17:05:13,362 - ReliableUDP - INFO - Sent reliable message de961055-c876-470f-bb9a-8cc082b00b1e to ('127.0.0.1', 59169)
+2025-06-03 17:05:13,362 - ReliableUDP - INFO - Sent reliable message 4c1d42a2-ba31-487d-9416-0a2bd91083ed to ('127.0.0.1', 59169)
+2025-06-03 17:05:13,364 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-03 17:05:13,364 - ReliableUDP - INFO - ACK received for message de961055-c876-470f-bb9a-8cc082b00b1e, delivery time: 0.003s
+2025-06-03 17:05:13,365 - ReliableUDP - INFO - ACK received for message 4c1d42a2-ba31-487d-9416-0a2bd91083ed, delivery time: 0.003s
+2025-06-03 17:05:16,491 - ChatServer - INFO - User rr left the chat
+2025-06-03 17:05:16,492 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-19 23:37:14,958 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-19 23:37:35,396 - ChatServer - INFO - User akin joined from ('127.0.0.1', 63383)
+2025-06-19 23:37:35,396 - ReliableUDP - INFO - Sent reliable message 51423081-ba68-4a5a-a846-324c31f5c7f5 to ('127.0.0.1', 63383)
+2025-06-19 23:37:35,397 - ReliableUDP - INFO - ACK received for message 51423081-ba68-4a5a-a846-324c31f5c7f5, delivery time: 0.001s
+2025-06-19 23:37:41,246 - ChatServer - INFO - Message from akin: selam
+2025-06-19 23:37:56,499 - ChatServer - INFO - Message from akin: merhaba nasýlsýn
+2025-06-19 23:38:10,907 - ChatServer - INFO - User eylül joined from ('127.0.0.1', 60192)
+2025-06-19 23:38:10,908 - ReliableUDP - INFO - Sent reliable message 73235378-1230-429f-9ba2-54284963ce05 to ('127.0.0.1', 63383)
+2025-06-19 23:38:10,908 - ReliableUDP - INFO - Sent reliable message 73235378-1230-429f-9ba2-54284963ce05 to ('127.0.0.1', 60192)
+2025-06-19 23:38:10,908 - ReliableUDP - INFO - Sent reliable message 71de588f-8805-4849-b783-a341c0aa6287 to ('127.0.0.1', 63383)
+2025-06-19 23:38:10,909 - ReliableUDP - INFO - ACK received for message 73235378-1230-429f-9ba2-54284963ce05, delivery time: 0.001s
+2025-06-19 23:38:10,909 - ReliableUDP - INFO - ACK received for message 71de588f-8805-4849-b783-a341c0aa6287, delivery time: 0.001s
+2025-06-19 23:38:20,437 - ChatServer - INFO - Message from eylül: merhaba teþekkürler
+2025-06-19 23:38:20,437 - ReliableUDP - INFO - Sent reliable message 10170931-b6d4-4e38-b902-ca2a9e373096 to ('127.0.0.1', 63383)
+2025-06-19 23:38:20,438 - ReliableUDP - INFO - ACK received for message 10170931-b6d4-4e38-b902-ca2a9e373096, delivery time: 0.001s
+2025-06-19 23:41:55,120 - ChatServer - INFO - Private message from akin to eylül: merahab
+2025-06-19 23:41:55,121 - ReliableUDP - INFO - Sent reliable message bae419a4-ba08-4007-ae1c-0ed404da5c7f to ('127.0.0.1', 60192)
+2025-06-19 23:41:55,122 - ReliableUDP - INFO - ACK received for message bae419a4-ba08-4007-ae1c-0ed404da5c7f, delivery time: 0.002s
+2025-06-19 23:42:03,437 - ChatServer - INFO - User eylül left the chat
+2025-06-19 23:42:03,437 - ReliableUDP - INFO - Sent reliable message bbc261d6-52aa-4ed5-875d-0f9abc995ac8 to ('127.0.0.1', 63383)
+2025-06-19 23:42:03,439 - ReliableUDP - INFO - Sent reliable message 2cd1f3ed-08fe-4cf8-b171-235005892724 to ('127.0.0.1', 63383)
+2025-06-19 23:42:03,439 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-19 23:42:03,440 - ReliableUDP - INFO - ACK received for message bbc261d6-52aa-4ed5-875d-0f9abc995ac8, delivery time: 0.002s
+2025-06-19 23:42:03,440 - ReliableUDP - INFO - ACK received for message 2cd1f3ed-08fe-4cf8-b171-235005892724, delivery time: 0.002s
+2025-06-19 23:42:06,857 - ChatServer - INFO - User akin left the chat
+2025-06-19 23:42:06,857 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-19 23:44:22,694 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-19 23:44:33,635 - ChatServer - INFO - User akin joined from ('127.0.0.1', 52071)
+2025-06-19 23:44:33,635 - ReliableUDP - INFO - Sent reliable message 72d1683e-f577-4c3f-aa3a-8388127630a2 to ('127.0.0.1', 52071)
+2025-06-19 23:44:33,636 - ReliableUDP - INFO - ACK received for message 72d1683e-f577-4c3f-aa3a-8388127630a2, delivery time: 0.001s
+2025-06-19 23:45:01,586 - ChatServer - INFO - User eylül joined from ('127.0.0.1', 56692)
+2025-06-19 23:45:01,587 - ReliableUDP - INFO - Sent reliable message 8e4d9d70-e794-4b37-a5d5-0df5e15718c1 to ('127.0.0.1', 52071)
+2025-06-19 23:45:01,588 - ReliableUDP - INFO - Sent reliable message 8e4d9d70-e794-4b37-a5d5-0df5e15718c1 to ('127.0.0.1', 56692)
+2025-06-19 23:45:01,588 - ReliableUDP - INFO - Sent reliable message 76d23dee-7689-4171-a0e5-69f69a8cfa0d to ('127.0.0.1', 52071)
+2025-06-19 23:45:01,590 - ReliableUDP - INFO - ACK received for message 8e4d9d70-e794-4b37-a5d5-0df5e15718c1, delivery time: 0.001s
+2025-06-19 23:45:01,590 - ReliableUDP - INFO - ACK received for message 76d23dee-7689-4171-a0e5-69f69a8cfa0d, delivery time: 0.001s
+2025-06-19 23:45:10,016 - ChatServer - INFO - Message from eylül: merhaba
+2025-06-19 23:45:10,016 - ReliableUDP - INFO - Sent reliable message 600b4ebe-7d8c-498b-88f0-b4741fe9d920 to ('127.0.0.1', 52071)
+2025-06-19 23:45:10,017 - ReliableUDP - INFO - ACK received for message 600b4ebe-7d8c-498b-88f0-b4741fe9d920, delivery time: 0.001s
+2025-06-19 23:45:16,380 - ChatServer - INFO - Message from akin: selam
+2025-06-19 23:45:16,381 - ReliableUDP - INFO - Sent reliable message f830d4b2-d83e-4e1a-a2d9-bbe37b964e5a to ('127.0.0.1', 56692)
+2025-06-19 23:45:16,382 - ReliableUDP - INFO - ACK received for message f830d4b2-d83e-4e1a-a2d9-bbe37b964e5a, delivery time: 0.001s
+2025-06-19 23:45:32,320 - ChatServer - INFO - Message from eylül: teþekkürler
+2025-06-19 23:45:32,320 - ReliableUDP - INFO - Sent reliable message 2671a6b1-9498-461d-8575-cfc25db5d942 to ('127.0.0.1', 52071)
+2025-06-19 23:45:32,321 - ReliableUDP - INFO - ACK received for message 2671a6b1-9498-461d-8575-cfc25db5d942, delivery time: 0.001s
+2025-06-19 23:52:01,591 - ChatServer - INFO - Private message from eylül to akin: selam
+2025-06-19 23:52:01,592 - ReliableUDP - INFO - Sent reliable message 52a46098-4f7c-4edf-b174-b1e125a9c506 to ('127.0.0.1', 52071)
+2025-06-19 23:52:01,593 - ReliableUDP - INFO - ACK received for message 52a46098-4f7c-4edf-b174-b1e125a9c506, delivery time: 0.003s
+2025-06-19 23:55:38,180 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-19 23:56:27,129 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-19 23:56:36,141 - ChatServer - INFO - User akin joined from ('127.0.0.1', 61681)
+2025-06-19 23:56:36,141 - ReliableUDP - INFO - Sent reliable message 03586bf6-418a-4544-bbb4-235fb0b27a78 to ('127.0.0.1', 61681)
+2025-06-19 23:56:36,142 - ReliableUDP - INFO - ACK received for message 03586bf6-418a-4544-bbb4-235fb0b27a78, delivery time: 0.001s
+2025-06-19 23:56:39,518 - ChatServer - INFO - Message from akin: selam
+2025-06-19 23:56:58,041 - ChatServer - INFO - User eylül joined from ('127.0.0.1', 58655)
+2025-06-19 23:56:58,041 - ReliableUDP - INFO - Sent reliable message 5bae09f2-f9dd-43e4-82d8-91b8c03c3088 to ('127.0.0.1', 61681)
+2025-06-19 23:56:58,042 - ReliableUDP - INFO - Sent reliable message 5bae09f2-f9dd-43e4-82d8-91b8c03c3088 to ('127.0.0.1', 58655)
+2025-06-19 23:56:58,043 - ReliableUDP - INFO - Sent reliable message f8115c1f-9ea7-4964-8a7f-072cd2c6152a to ('127.0.0.1', 61681)
+2025-06-19 23:56:58,043 - ReliableUDP - INFO - ACK received for message 5bae09f2-f9dd-43e4-82d8-91b8c03c3088, delivery time: 0.001s
+2025-06-19 23:56:58,043 - ReliableUDP - INFO - ACK received for message f8115c1f-9ea7-4964-8a7f-072cd2c6152a, delivery time: 0.000s
+2025-06-19 23:57:03,206 - ChatServer - INFO - Message from eylül: merhaba
+2025-06-19 23:57:03,208 - ReliableUDP - INFO - Sent reliable message e3b04378-587b-423c-ab65-f4f70ed4c2d9 to ('127.0.0.1', 61681)
+2025-06-19 23:57:03,208 - ReliableUDP - INFO - ACK received for message e3b04378-587b-423c-ab65-f4f70ed4c2d9, delivery time: 0.000s
+2025-06-20 00:13:22,941 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 00:13:43,711 - ChatServer - INFO - User akin joined from ('127.0.0.1', 59718)
+2025-06-20 00:13:43,711 - ReliableUDP - INFO - Sent reliable message ea40ffa0-f56f-4588-b1fe-351a0d3cfa7f to ('127.0.0.1', 59718)
+2025-06-20 00:13:43,711 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:13:43,712 - ReliableUDP - INFO - ACK received for message ea40ffa0-f56f-4588-b1fe-351a0d3cfa7f, delivery time: 0.001s
+2025-06-20 00:13:55,530 - ChatServer - INFO - User eylül joined from ('127.0.0.1', 61367)
+2025-06-20 00:13:55,530 - ReliableUDP - INFO - Sent reliable message 028747e4-4c1e-4de0-a439-a64c7ec12bbb to ('127.0.0.1', 59718)
+2025-06-20 00:13:55,530 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:13:55,531 - ReliableUDP - INFO - Sent reliable message 028747e4-4c1e-4de0-a439-a64c7ec12bbb to ('127.0.0.1', 61367)
+2025-06-20 00:13:55,531 - ChatServer - INFO - Broadcasted user address list to eylül
+2025-06-20 00:13:55,531 - ReliableUDP - INFO - Sent reliable message ef5ca4e2-eca9-48cf-a92f-8f77cb733170 to ('127.0.0.1', 59718)
+2025-06-20 00:13:55,531 - ReliableUDP - INFO - ACK received for message 028747e4-4c1e-4de0-a439-a64c7ec12bbb, delivery time: 0.000s
+2025-06-20 00:13:55,532 - ReliableUDP - INFO - ACK received for message ef5ca4e2-eca9-48cf-a92f-8f77cb733170, delivery time: 0.001s
+2025-06-20 00:13:59,866 - ChatServer - INFO - Message from eylül: merhaab
+2025-06-20 00:13:59,866 - ReliableUDP - INFO - Sent reliable message 74411f89-58de-422b-82a3-bcbc727bc521 to ('127.0.0.1', 59718)
+2025-06-20 00:13:59,866 - ReliableUDP - INFO - ACK received for message 74411f89-58de-422b-82a3-bcbc727bc521, delivery time: 0.000s
+2025-06-20 00:14:06,173 - ChatServer - INFO - Message from akin: selam
+2025-06-20 00:14:06,173 - ReliableUDP - INFO - Sent reliable message 04864852-c5ee-4e2b-a06d-d8347e1d3345 to ('127.0.0.1', 61367)
+2025-06-20 00:14:06,173 - ReliableUDP - INFO - ACK received for message 04864852-c5ee-4e2b-a06d-d8347e1d3345, delivery time: 0.000s
+2025-06-20 00:15:22,944 - ChatServer - WARNING - Removing inactive user: akin
+2025-06-20 00:15:22,945 - ReliableUDP - INFO - Sent reliable message bc44e37d-dfd1-42dc-8fe3-ea61392456d8 to ('127.0.0.1', 61367)
+2025-06-20 00:15:22,945 - ChatServer - INFO - Broadcasted user address list to eylül
+2025-06-20 00:15:22,946 - ReliableUDP - INFO - ACK received for message bc44e37d-dfd1-42dc-8fe3-ea61392456d8, delivery time: 0.001s
+2025-06-20 00:15:22,946 - ReliableUDP - INFO - Sent reliable message b7279a0a-25ab-44e0-b1e4-1891fbacd83f to ('127.0.0.1', 61367)
+2025-06-20 00:15:22,946 - ReliableUDP - INFO - ACK received for message b7279a0a-25ab-44e0-b1e4-1891fbacd83f, delivery time: 0.000s
+2025-06-20 00:16:22,949 - ChatServer - WARNING - Removing inactive user: eylül
+2025-06-20 00:19:10,433 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 00:19:18,983 - ChatServer - INFO - User akin joined from ('127.0.0.1', 50277)
+2025-06-20 00:19:18,984 - ReliableUDP - INFO - Sent reliable message 3a36a572-eaf8-4589-a501-16097eb38213 to ('127.0.0.1', 50277)
+2025-06-20 00:19:18,984 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:19:18,985 - ReliableUDP - INFO - ACK received for message 3a36a572-eaf8-4589-a501-16097eb38213, delivery time: 0.001s
+2025-06-20 00:19:32,528 - ChatServer - INFO - User eylül joined from ('127.0.0.1', 65227)
+2025-06-20 00:19:32,530 - ReliableUDP - INFO - Sent reliable message 3fdb9d67-4a24-4d21-9c0a-96af5d93a63d to ('127.0.0.1', 50277)
+2025-06-20 00:19:32,530 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:19:32,530 - ReliableUDP - INFO - Sent reliable message 3fdb9d67-4a24-4d21-9c0a-96af5d93a63d to ('127.0.0.1', 65227)
+2025-06-20 00:19:32,530 - ChatServer - INFO - Broadcasted user address list to eylül
+2025-06-20 00:19:32,531 - ReliableUDP - INFO - Sent reliable message 3919562f-c432-4d7a-9109-35a229b26a46 to ('127.0.0.1', 50277)
+2025-06-20 00:19:32,531 - ReliableUDP - INFO - ACK received for message 3fdb9d67-4a24-4d21-9c0a-96af5d93a63d, delivery time: 0.001s
+2025-06-20 00:19:32,531 - ReliableUDP - INFO - ACK received for message 3919562f-c432-4d7a-9109-35a229b26a46, delivery time: 0.001s
+2025-06-20 00:19:37,609 - ChatServer - INFO - Message from eylül: selam
+2025-06-20 00:19:37,609 - ReliableUDP - INFO - Sent reliable message b6f584e0-0ffb-4920-a0a0-d116f9266315 to ('127.0.0.1', 50277)
+2025-06-20 00:19:37,610 - ReliableUDP - INFO - ACK received for message b6f584e0-0ffb-4920-a0a0-d116f9266315, delivery time: 0.001s
+2025-06-20 00:19:43,547 - ChatServer - INFO - Message from akin: merhaba
+2025-06-20 00:19:43,548 - ReliableUDP - INFO - Sent reliable message 3d44a0e6-341d-4396-8516-934b3d57b8c2 to ('127.0.0.1', 65227)
+2025-06-20 00:19:43,548 - ReliableUDP - INFO - ACK received for message 3d44a0e6-341d-4396-8516-934b3d57b8c2, delivery time: 0.000s
+2025-06-20 00:21:10,436 - ChatServer - WARNING - Removing inactive user: eylül
+2025-06-20 00:21:10,439 - ReliableUDP - INFO - Sent reliable message 9fba6324-2419-4daf-b176-14b817c2d304 to ('127.0.0.1', 50277)
+2025-06-20 00:21:10,440 - ReliableUDP - INFO - ACK received for message 9fba6324-2419-4daf-b176-14b817c2d304, delivery time: 0.001s
+2025-06-20 00:21:10,440 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:21:10,441 - ReliableUDP - INFO - Sent reliable message 4c80b34f-0d36-4398-aaa0-f54a61dcf003 to ('127.0.0.1', 50277)
+2025-06-20 00:21:10,441 - ReliableUDP - INFO - ACK received for message 4c80b34f-0d36-4398-aaa0-f54a61dcf003, delivery time: 0.000s
+2025-06-20 00:25:33,711 - ChatServer - INFO - User eylül left the chat
+2025-06-20 00:25:33,712 - ReliableUDP - INFO - Sent reliable message 10cd8580-0015-4376-b870-4ca7de35010a to ('127.0.0.1', 50277)
+2025-06-20 00:25:33,712 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:25:33,713 - ReliableUDP - INFO - Sent reliable message 1439c216-c473-45b3-9461-5c7048a554ae to ('127.0.0.1', 50277)
+2025-06-20 00:25:33,713 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 00:25:33,714 - ReliableUDP - INFO - ACK received for message 10cd8580-0015-4376-b870-4ca7de35010a, delivery time: 0.002s
+2025-06-20 00:25:33,715 - ReliableUDP - INFO - ACK received for message 1439c216-c473-45b3-9461-5c7048a554ae, delivery time: 0.001s
+2025-06-20 00:25:35,321 - ChatServer - INFO - User akin left the chat
+2025-06-20 00:25:35,323 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 00:26:40,449 - ChatServer - WARNING - Removing inactive user: eylül
+2025-06-20 00:30:15,240 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 00:30:26,507 - ChatServer - INFO - User akin joined from ('127.0.0.1', 58687)
+2025-06-20 00:30:26,507 - ReliableUDP - INFO - Sent reliable message 063c8bbb-19d4-481c-a8d4-cb35a0b49138 to ('127.0.0.1', 58687)
+2025-06-20 00:30:26,508 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:30:26,508 - ReliableUDP - INFO - ACK received for message 063c8bbb-19d4-481c-a8d4-cb35a0b49138, delivery time: 0.001s
+2025-06-20 00:30:39,564 - ChatServer - INFO - User eylül joined from ('127.0.0.1', 49705)
+2025-06-20 00:30:39,565 - ReliableUDP - INFO - Sent reliable message fdf1908a-9b2b-4506-ad72-37ee2f14bb2f to ('127.0.0.1', 58687)
+2025-06-20 00:30:39,565 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 00:30:39,566 - ReliableUDP - INFO - Sent reliable message fdf1908a-9b2b-4506-ad72-37ee2f14bb2f to ('127.0.0.1', 49705)
+2025-06-20 00:30:39,566 - ChatServer - INFO - Broadcasted user address list to eylül
+2025-06-20 00:30:39,566 - ReliableUDP - INFO - Sent reliable message 8236ea1b-99d4-4a28-be84-4cc1f8749994 to ('127.0.0.1', 58687)
+2025-06-20 00:30:39,566 - ReliableUDP - INFO - ACK received for message fdf1908a-9b2b-4506-ad72-37ee2f14bb2f, delivery time: 0.001s
+2025-06-20 00:30:39,568 - ReliableUDP - INFO - ACK received for message 8236ea1b-99d4-4a28-be84-4cc1f8749994, delivery time: 0.002s
+2025-06-20 00:31:42,764 - ChatServer - INFO - User akin left the chat
+2025-06-20 00:31:42,764 - ReliableUDP - INFO - Sent reliable message c85a1bc6-c8ca-45e1-9855-31da1b90663e to ('127.0.0.1', 49705)
+2025-06-20 00:31:42,766 - ChatServer - INFO - Broadcasted user address list to eylül
+2025-06-20 00:31:42,766 - ReliableUDP - INFO - Sent reliable message 1a14d19c-4db3-4f91-9c4d-fb39703bfe50 to ('127.0.0.1', 49705)
+2025-06-20 00:31:42,767 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 00:31:42,767 - ReliableUDP - INFO - ACK received for message c85a1bc6-c8ca-45e1-9855-31da1b90663e, delivery time: 0.003s
+2025-06-20 00:31:42,768 - ReliableUDP - INFO - ACK received for message 1a14d19c-4db3-4f91-9c4d-fb39703bfe50, delivery time: 0.002s
+2025-06-20 00:31:49,416 - ChatServer - INFO - User eylül left the chat
+2025-06-20 00:31:49,417 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 00:44:24,165 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 00:45:10,672 - ChatServer - INFO - User süm joined from ('127.0.0.1', 52876)
+2025-06-20 00:45:10,672 - ReliableUDP - INFO - Sent reliable message 7b66471f-7340-4eac-9e30-f8de824c3b68 to ('127.0.0.1', 52876)
+2025-06-20 00:45:10,672 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:45:10,672 - ReliableUDP - INFO - ACK received for message 7b66471f-7340-4eac-9e30-f8de824c3b68, delivery time: 0.000s
+2025-06-20 00:45:16,457 - ChatServer - INFO - Message from süm: slm
+2025-06-20 00:45:46,143 - ChatServer - INFO - User sait joined from ('127.0.0.1', 54073)
+2025-06-20 00:45:46,143 - ReliableUDP - INFO - Sent reliable message 7d95fb6c-a8d8-476f-a219-b6438de8ce8f to ('127.0.0.1', 52876)
+2025-06-20 00:45:46,143 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:45:46,143 - ReliableUDP - INFO - Sent reliable message 7d95fb6c-a8d8-476f-a219-b6438de8ce8f to ('127.0.0.1', 54073)
+2025-06-20 00:45:46,143 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:45:46,143 - ReliableUDP - INFO - Sent reliable message ec822c89-ab0c-439c-af77-3b7cd7319184 to ('127.0.0.1', 52876)
+2025-06-20 00:45:46,143 - ReliableUDP - INFO - ACK received for message 7d95fb6c-a8d8-476f-a219-b6438de8ce8f, delivery time: 0.000s
+2025-06-20 00:45:46,143 - ReliableUDP - INFO - ACK received for message ec822c89-ab0c-439c-af77-3b7cd7319184, delivery time: 0.000s
+2025-06-20 00:45:50,896 - ChatServer - INFO - Message from sait: assss
+2025-06-20 00:45:50,896 - ReliableUDP - INFO - Sent reliable message 5672abe8-4a1b-4ed1-b67e-421be9ace9a8 to ('127.0.0.1', 52876)
+2025-06-20 00:45:50,896 - ReliableUDP - INFO - ACK received for message 5672abe8-4a1b-4ed1-b67e-421be9ace9a8, delivery time: 0.000s
+2025-06-20 00:47:08,440 - ChatServer - INFO - User bukim joined from ('127.0.0.1', 56317)
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - Sent reliable message 936bd8df-b022-46e3-a29e-7094bae90eef to ('127.0.0.1', 52876)
+2025-06-20 00:47:08,440 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - Sent reliable message 936bd8df-b022-46e3-a29e-7094bae90eef to ('127.0.0.1', 54073)
+2025-06-20 00:47:08,440 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - Sent reliable message 936bd8df-b022-46e3-a29e-7094bae90eef to ('127.0.0.1', 56317)
+2025-06-20 00:47:08,440 - ChatServer - INFO - Broadcasted user address list to bukim
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - Sent reliable message b3854d5f-4e11-4c82-8c76-bbdb3d1ee978 to ('127.0.0.1', 52876)
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - Sent reliable message b3854d5f-4e11-4c82-8c76-bbdb3d1ee978 to ('127.0.0.1', 54073)
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - ACK received for message 936bd8df-b022-46e3-a29e-7094bae90eef, delivery time: 0.000s
+2025-06-20 00:47:08,440 - ReliableUDP - INFO - ACK received for message b3854d5f-4e11-4c82-8c76-bbdb3d1ee978, delivery time: 0.000s
+2025-06-20 00:47:11,596 - ChatServer - INFO - Message from bukim: offf
+2025-06-20 00:47:11,596 - ReliableUDP - INFO - Sent reliable message b6b0592e-d197-4d08-b54e-2e875c7dcaca to ('127.0.0.1', 52876)
+2025-06-20 00:47:11,596 - ReliableUDP - INFO - Sent reliable message b6b0592e-d197-4d08-b54e-2e875c7dcaca to ('127.0.0.1', 54073)
+2025-06-20 00:47:11,601 - ReliableUDP - INFO - ACK received for message b6b0592e-d197-4d08-b54e-2e875c7dcaca, delivery time: 0.005s
+2025-06-20 00:47:26,805 - ChatServer - INFO - Message from süm: sizene yaaaaaaaaaaaaaaaaaaaa
+2025-06-20 00:47:26,805 - ReliableUDP - INFO - Sent reliable message 8e44d169-ea51-4136-bc69-9ad54fe8b065 to ('127.0.0.1', 54073)
+2025-06-20 00:47:26,805 - ReliableUDP - INFO - Sent reliable message 8e44d169-ea51-4136-bc69-9ad54fe8b065 to ('127.0.0.1', 56317)
+2025-06-20 00:47:26,805 - ReliableUDP - INFO - ACK received for message 8e44d169-ea51-4136-bc69-9ad54fe8b065, delivery time: 0.000s
+2025-06-20 00:48:54,233 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - Sent reliable message 1f6c8eb5-fe40-4205-8c1f-4add0a5dbe09 to ('127.0.0.1', 52876)
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - ACK received for message 1f6c8eb5-fe40-4205-8c1f-4add0a5dbe09, delivery time: 0.000s
+2025-06-20 00:48:54,233 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - Sent reliable message 1f6c8eb5-fe40-4205-8c1f-4add0a5dbe09 to ('127.0.0.1', 54073)
+2025-06-20 00:48:54,233 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - ACK received for message 1f6c8eb5-fe40-4205-8c1f-4add0a5dbe09, delivery time: 0.000s
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - Sent reliable message 57033503-0017-44bf-808e-9fd75e2005c7 to ('127.0.0.1', 52876)
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - ACK received for message 57033503-0017-44bf-808e-9fd75e2005c7, delivery time: 0.000s
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - Sent reliable message 57033503-0017-44bf-808e-9fd75e2005c7 to ('127.0.0.1', 54073)
+2025-06-20 00:48:54,233 - ReliableUDP - INFO - ACK received for message 57033503-0017-44bf-808e-9fd75e2005c7, delivery time: 0.000s
+2025-06-20 00:51:28,586 - ChatServer - INFO - Message from bukim: fsdf
+2025-06-20 00:51:28,586 - ReliableUDP - INFO - Sent reliable message f60e9cc7-f94d-467b-a781-08035cbcfc30 to ('127.0.0.1', 52876)
+2025-06-20 00:51:28,586 - ReliableUDP - INFO - Sent reliable message f60e9cc7-f94d-467b-a781-08035cbcfc30 to ('127.0.0.1', 54073)
+2025-06-20 00:51:28,586 - ReliableUDP - INFO - ACK received for message f60e9cc7-f94d-467b-a781-08035cbcfc30, delivery time: 0.000s
+2025-06-20 00:51:57,408 - ChatServer - INFO - Message from bukim: geldim
+2025-06-20 00:51:57,408 - ReliableUDP - INFO - Sent reliable message 5f283aa4-e073-4550-87ae-0424d8b698b3 to ('127.0.0.1', 52876)
+2025-06-20 00:51:57,408 - ReliableUDP - INFO - Sent reliable message 5f283aa4-e073-4550-87ae-0424d8b698b3 to ('127.0.0.1', 54073)
+2025-06-20 00:51:57,408 - ReliableUDP - INFO - ACK received for message 5f283aa4-e073-4550-87ae-0424d8b698b3, delivery time: 0.000s
+2025-06-20 00:53:24,312 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - Sent reliable message b23289df-210a-4a34-8a23-8b1a24fef24d to ('127.0.0.1', 52876)
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - ACK received for message b23289df-210a-4a34-8a23-8b1a24fef24d, delivery time: 0.000s
+2025-06-20 00:53:24,313 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - Sent reliable message b23289df-210a-4a34-8a23-8b1a24fef24d to ('127.0.0.1', 54073)
+2025-06-20 00:53:24,313 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - ACK received for message b23289df-210a-4a34-8a23-8b1a24fef24d, delivery time: 0.000s
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - Sent reliable message f9128ae4-fef7-40d3-a51b-5b9b6f9ec357 to ('127.0.0.1', 52876)
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - ACK received for message f9128ae4-fef7-40d3-a51b-5b9b6f9ec357, delivery time: 0.000s
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - Sent reliable message f9128ae4-fef7-40d3-a51b-5b9b6f9ec357 to ('127.0.0.1', 54073)
+2025-06-20 00:53:24,313 - ReliableUDP - INFO - ACK received for message f9128ae4-fef7-40d3-a51b-5b9b6f9ec357, delivery time: 0.000s
+2025-06-20 00:53:54,332 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:53:54,332 - ReliableUDP - INFO - Sent reliable message 46dc7d94-9db4-4506-bc46-3821f85887f5 to ('127.0.0.1', 52876)
+2025-06-20 00:53:54,332 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:53:54,332 - ReliableUDP - INFO - ACK received for message 46dc7d94-9db4-4506-bc46-3821f85887f5, delivery time: 0.000s
+2025-06-20 00:53:54,332 - ReliableUDP - INFO - Sent reliable message 46dc7d94-9db4-4506-bc46-3821f85887f5 to ('127.0.0.1', 54073)
+2025-06-20 00:53:54,337 - ReliableUDP - INFO - ACK received for message 46dc7d94-9db4-4506-bc46-3821f85887f5, delivery time: 0.004s
+2025-06-20 00:53:54,337 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:53:54,337 - ReliableUDP - INFO - Sent reliable message 4e00a9d5-5fb3-4d3c-8fd7-d8d3d09c02b3 to ('127.0.0.1', 52876)
+2025-06-20 00:53:54,337 - ReliableUDP - INFO - ACK received for message 4e00a9d5-5fb3-4d3c-8fd7-d8d3d09c02b3, delivery time: 0.000s
+2025-06-20 00:53:54,337 - ReliableUDP - INFO - Sent reliable message 4e00a9d5-5fb3-4d3c-8fd7-d8d3d09c02b3 to ('127.0.0.1', 54073)
+2025-06-20 00:53:54,337 - ReliableUDP - INFO - ACK received for message 4e00a9d5-5fb3-4d3c-8fd7-d8d3d09c02b3, delivery time: 0.000s
+2025-06-20 00:54:24,352 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:54:24,352 - ReliableUDP - INFO - Sent reliable message 79132e4b-2e8f-430e-8865-a938f31966d2 to ('127.0.0.1', 52876)
+2025-06-20 00:54:24,352 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:54:24,352 - ReliableUDP - INFO - ACK received for message 79132e4b-2e8f-430e-8865-a938f31966d2, delivery time: 0.000s
+2025-06-20 00:54:24,352 - ReliableUDP - INFO - Sent reliable message 79132e4b-2e8f-430e-8865-a938f31966d2 to ('127.0.0.1', 54073)
+2025-06-20 00:54:24,352 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:54:24,352 - ReliableUDP - INFO - ACK received for message 79132e4b-2e8f-430e-8865-a938f31966d2, delivery time: 0.000s
+2025-06-20 00:54:24,357 - ReliableUDP - INFO - Sent reliable message 83235605-d3cf-4266-84b7-c83c6ed6841a to ('127.0.0.1', 52876)
+2025-06-20 00:54:24,357 - ReliableUDP - INFO - ACK received for message 83235605-d3cf-4266-84b7-c83c6ed6841a, delivery time: 0.000s
+2025-06-20 00:54:24,357 - ReliableUDP - INFO - Sent reliable message 83235605-d3cf-4266-84b7-c83c6ed6841a to ('127.0.0.1', 54073)
+2025-06-20 00:54:24,357 - ReliableUDP - INFO - ACK received for message 83235605-d3cf-4266-84b7-c83c6ed6841a, delivery time: 0.000s
+2025-06-20 00:54:54,365 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - Sent reliable message d2fcac8e-f8bf-4d8f-a8f8-f34c7ed31e69 to ('127.0.0.1', 52876)
+2025-06-20 00:54:54,365 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - ACK received for message d2fcac8e-f8bf-4d8f-a8f8-f34c7ed31e69, delivery time: 0.000s
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - Sent reliable message d2fcac8e-f8bf-4d8f-a8f8-f34c7ed31e69 to ('127.0.0.1', 54073)
+2025-06-20 00:54:54,365 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - ACK received for message d2fcac8e-f8bf-4d8f-a8f8-f34c7ed31e69, delivery time: 0.000s
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - Sent reliable message b0f87400-1169-4724-abcb-cef98bc4af86 to ('127.0.0.1', 52876)
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - ACK received for message b0f87400-1169-4724-abcb-cef98bc4af86, delivery time: 0.000s
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - Sent reliable message b0f87400-1169-4724-abcb-cef98bc4af86 to ('127.0.0.1', 54073)
+2025-06-20 00:54:54,365 - ReliableUDP - INFO - ACK received for message b0f87400-1169-4724-abcb-cef98bc4af86, delivery time: 0.000s
+2025-06-20 00:55:24,374 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:55:24,374 - ReliableUDP - INFO - Sent reliable message 449a2a97-914c-4e54-9d0c-5a9cb9962dce to ('127.0.0.1', 52876)
+2025-06-20 00:55:24,374 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:55:24,374 - ReliableUDP - INFO - ACK received for message 449a2a97-914c-4e54-9d0c-5a9cb9962dce, delivery time: 0.000s
+2025-06-20 00:55:24,374 - ReliableUDP - INFO - Sent reliable message 449a2a97-914c-4e54-9d0c-5a9cb9962dce to ('127.0.0.1', 54073)
+2025-06-20 00:55:24,374 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:55:24,377 - ReliableUDP - INFO - ACK received for message 449a2a97-914c-4e54-9d0c-5a9cb9962dce, delivery time: 0.003s
+2025-06-20 00:55:24,377 - ReliableUDP - INFO - Sent reliable message 66914716-2f5a-407a-91f0-5ba4a6b51587 to ('127.0.0.1', 52876)
+2025-06-20 00:55:24,377 - ReliableUDP - INFO - Sent reliable message 66914716-2f5a-407a-91f0-5ba4a6b51587 to ('127.0.0.1', 54073)
+2025-06-20 00:55:24,377 - ReliableUDP - INFO - ACK received for message 66914716-2f5a-407a-91f0-5ba4a6b51587, delivery time: 0.000s
+2025-06-20 00:55:54,388 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - Sent reliable message d5ce1678-6d4a-43e3-b35d-6d1f11bace44 to ('127.0.0.1', 52876)
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - ACK received for message d5ce1678-6d4a-43e3-b35d-6d1f11bace44, delivery time: 0.000s
+2025-06-20 00:55:54,388 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - Sent reliable message d5ce1678-6d4a-43e3-b35d-6d1f11bace44 to ('127.0.0.1', 54073)
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - ACK received for message d5ce1678-6d4a-43e3-b35d-6d1f11bace44, delivery time: 0.000s
+2025-06-20 00:55:54,388 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - Sent reliable message 93dc543b-8716-41ae-8f6a-f28412f6af11 to ('127.0.0.1', 52876)
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - ACK received for message 93dc543b-8716-41ae-8f6a-f28412f6af11, delivery time: 0.000s
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - Sent reliable message 93dc543b-8716-41ae-8f6a-f28412f6af11 to ('127.0.0.1', 54073)
+2025-06-20 00:55:54,388 - ReliableUDP - INFO - ACK received for message 93dc543b-8716-41ae-8f6a-f28412f6af11, delivery time: 0.000s
+2025-06-20 00:56:24,395 - ChatServer - WARNING - Removing inactive user: bukim
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - Sent reliable message 2e48c444-ee13-414d-8ade-4db37667138d to ('127.0.0.1', 52876)
+2025-06-20 00:56:24,395 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - ACK received for message 2e48c444-ee13-414d-8ade-4db37667138d, delivery time: 0.000s
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - Sent reliable message 2e48c444-ee13-414d-8ade-4db37667138d to ('127.0.0.1', 54073)
+2025-06-20 00:56:24,395 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - ACK received for message 2e48c444-ee13-414d-8ade-4db37667138d, delivery time: 0.000s
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - Sent reliable message f37d094e-98af-460f-8d88-0819826b749a to ('127.0.0.1', 52876)
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - ACK received for message f37d094e-98af-460f-8d88-0819826b749a, delivery time: 0.000s
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - Sent reliable message f37d094e-98af-460f-8d88-0819826b749a to ('127.0.0.1', 54073)
+2025-06-20 00:56:24,395 - ReliableUDP - INFO - ACK received for message f37d094e-98af-460f-8d88-0819826b749a, delivery time: 0.000s
+2025-06-20 00:56:41,454 - ChatServer - INFO - User süm left the chat
+2025-06-20 00:56:41,454 - ReliableUDP - INFO - Sent reliable message 5bded27b-fe98-42e2-8eeb-6f4ad4537487 to ('127.0.0.1', 54073)
+2025-06-20 00:56:41,454 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 00:56:41,454 - ReliableUDP - INFO - Sent reliable message 22a45e48-7920-439c-9e5e-0d87832aa7a9 to ('127.0.0.1', 54073)
+2025-06-20 00:56:41,454 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 00:56:41,454 - ReliableUDP - INFO - ACK received for message 5bded27b-fe98-42e2-8eeb-6f4ad4537487, delivery time: 0.000s
+2025-06-20 00:56:41,454 - ReliableUDP - INFO - ACK received for message 22a45e48-7920-439c-9e5e-0d87832aa7a9, delivery time: 0.000s
+2025-06-20 00:56:43,344 - ChatServer - INFO - User sait left the chat
+2025-06-20 00:56:43,344 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 00:56:44,610 - ChatServer - INFO - User bukim left the chat
+2025-06-20 00:56:44,610 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:03:12,591 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 01:03:49,448 - ChatServer - INFO - User süm joined from ('127.0.0.1', 49917)
+2025-06-20 01:03:49,448 - ReliableUDP - INFO - Sent reliable message 0eaef976-d04d-4d2b-9c24-3461ee81aac1 to ('127.0.0.1', 49917)
+2025-06-20 01:03:49,448 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:03:49,448 - ReliableUDP - INFO - ACK received for message 0eaef976-d04d-4d2b-9c24-3461ee81aac1, delivery time: 0.000s
+2025-06-20 01:03:59,536 - ChatServer - INFO - User sait joined from ('127.0.0.1', 49918)
+2025-06-20 01:03:59,536 - ReliableUDP - INFO - Sent reliable message be0ea7e6-380b-4f1a-a71a-8f3c58dd9100 to ('127.0.0.1', 49917)
+2025-06-20 01:03:59,536 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:03:59,552 - ReliableUDP - INFO - Sent reliable message be0ea7e6-380b-4f1a-a71a-8f3c58dd9100 to ('127.0.0.1', 49918)
+2025-06-20 01:03:59,552 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 01:03:59,552 - ReliableUDP - INFO - Sent reliable message 8bef5f88-5838-4b9f-b937-1000e554184a to ('127.0.0.1', 49917)
+2025-06-20 01:03:59,552 - ReliableUDP - INFO - ACK received for message be0ea7e6-380b-4f1a-a71a-8f3c58dd9100, delivery time: 0.016s
+2025-06-20 01:03:59,552 - ReliableUDP - INFO - ACK received for message 8bef5f88-5838-4b9f-b937-1000e554184a, delivery time: 0.000s
+2025-06-20 01:04:31,894 - ChatServer - INFO - User osmn joined from ('127.0.0.1', 56321)
+2025-06-20 01:04:31,894 - ReliableUDP - INFO - Sent reliable message 763c9773-9613-4190-909b-05d4eeee9779 to ('127.0.0.1', 49917)
+2025-06-20 01:04:31,894 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:04:31,894 - ReliableUDP - INFO - Sent reliable message 763c9773-9613-4190-909b-05d4eeee9779 to ('127.0.0.1', 49918)
+2025-06-20 01:04:31,894 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 01:04:31,894 - ReliableUDP - INFO - Sent reliable message 763c9773-9613-4190-909b-05d4eeee9779 to ('127.0.0.1', 56321)
+2025-06-20 01:04:31,894 - ChatServer - INFO - Broadcasted user address list to osmn
+2025-06-20 01:04:31,894 - ReliableUDP - INFO - Sent reliable message 9a650440-000a-4471-b6a4-7fd20eb5047f to ('127.0.0.1', 49917)
+2025-06-20 01:04:31,894 - ReliableUDP - INFO - Sent reliable message 9a650440-000a-4471-b6a4-7fd20eb5047f to ('127.0.0.1', 49918)
+2025-06-20 01:04:31,906 - ReliableUDP - INFO - ACK received for message 763c9773-9613-4190-909b-05d4eeee9779, delivery time: 0.012s
+2025-06-20 01:04:31,906 - ReliableUDP - INFO - ACK received for message 9a650440-000a-4471-b6a4-7fd20eb5047f, delivery time: 0.012s
+2025-06-20 01:05:42,644 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:05:42,644 - ReliableUDP - INFO - Sent reliable message 248b42a2-5947-4b0f-8a01-c5274d08db55 to ('127.0.0.1', 49918)
+2025-06-20 01:05:42,644 - ChatServer - INFO - Broadcasted user address list to sait
+2025-06-20 01:05:42,644 - ReliableUDP - INFO - ACK received for message 248b42a2-5947-4b0f-8a01-c5274d08db55, delivery time: 0.000s
+2025-06-20 01:05:42,645 - ReliableUDP - INFO - Sent reliable message 248b42a2-5947-4b0f-8a01-c5274d08db55 to ('127.0.0.1', 56321)
+2025-06-20 01:05:42,645 - ChatServer - INFO - Broadcasted user address list to osmn
+2025-06-20 01:05:42,646 - ReliableUDP - INFO - ACK received for message 248b42a2-5947-4b0f-8a01-c5274d08db55, delivery time: 0.001s
+2025-06-20 01:05:42,646 - ReliableUDP - INFO - Sent reliable message bd09e9da-91c9-48da-acdb-c9889d31cc01 to ('127.0.0.1', 49918)
+2025-06-20 01:05:42,646 - ReliableUDP - INFO - ACK received for message bd09e9da-91c9-48da-acdb-c9889d31cc01, delivery time: 0.001s
+2025-06-20 01:05:42,648 - ReliableUDP - INFO - Sent reliable message bd09e9da-91c9-48da-acdb-c9889d31cc01 to ('127.0.0.1', 56321)
+2025-06-20 01:05:42,648 - ReliableUDP - INFO - ACK received for message bd09e9da-91c9-48da-acdb-c9889d31cc01, delivery time: 0.001s
+2025-06-20 01:05:42,648 - ChatServer - WARNING - Removing inactive user: sait
+2025-06-20 01:05:42,649 - ReliableUDP - INFO - Sent reliable message c83631a8-0b1e-4562-8490-388bc8b733c3 to ('127.0.0.1', 56321)
+2025-06-20 01:05:42,649 - ReliableUDP - INFO - ACK received for message c83631a8-0b1e-4562-8490-388bc8b733c3, delivery time: 0.000s
+2025-06-20 01:05:42,650 - ChatServer - INFO - Broadcasted user address list to osmn
+2025-06-20 01:05:42,651 - ReliableUDP - INFO - Sent reliable message 376d6166-befe-4c46-97c0-54f319e940bb to ('127.0.0.1', 56321)
+2025-06-20 01:05:42,651 - ReliableUDP - INFO - ACK received for message 376d6166-befe-4c46-97c0-54f319e940bb, delivery time: 0.001s
+2025-06-20 01:05:42,651 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:08:22,616 - ChatServer - INFO - Message from süm: fff
+2025-06-20 01:08:29,796 - ChatServer - INFO - Message from osmn: ffff
+2025-06-20 01:09:42,739 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:09:42,739 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:10:12,751 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:10:12,751 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:10:42,758 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:10:42,758 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:11:12,771 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:11:12,771 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:11:42,777 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:11:42,777 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:12:12,784 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:12:12,784 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:12:42,795 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:12:42,795 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:13:12,806 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:13:12,806 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:13:42,819 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:13:42,819 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:14:12,835 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:14:12,835 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:14:42,843 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:14:42,843 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:15:12,844 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:15:12,844 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:15:42,847 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:15:42,847 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:16:12,864 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:16:12,864 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:16:42,879 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:16:42,879 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:17:12,885 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:17:12,885 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:17:42,887 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:17:42,887 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:18:12,898 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:18:12,898 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:18:42,914 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:18:42,914 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:19:12,925 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:19:12,925 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:19:42,940 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:19:42,940 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:20:12,955 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:20:12,955 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:20:42,958 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:20:42,958 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:21:12,970 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:21:12,970 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:21:42,988 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:21:42,988 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:22:12,995 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:22:12,995 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:22:43,007 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:22:43,007 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:23:13,014 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:23:13,014 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:23:43,029 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:23:43,029 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:24:13,031 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:24:13,032 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:24:43,052 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:24:43,052 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:25:13,061 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:25:13,062 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:25:43,068 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:25:43,070 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:26:13,086 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:26:13,087 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:26:43,093 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:26:43,093 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:27:13,102 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:27:13,102 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:27:43,108 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:27:43,108 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:28:13,125 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:28:13,125 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:28:43,132 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:28:43,133 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:29:13,137 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:29:13,138 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:29:43,152 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:29:43,162 - ChatServer - WARNING - Removing inactive user: osmn
+2025-06-20 01:30:04,630 - ChatServer - INFO - User sait left the chat
+2025-06-20 01:30:04,630 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:30:06,190 - ChatServer - INFO - User süm left the chat
+2025-06-20 01:30:06,192 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:30:07,594 - ChatServer - INFO - User osmn left the chat
+2025-06-20 01:30:07,601 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:30:56,621 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 01:31:11,575 - ChatServer - INFO - User süm joined from ('127.0.0.1', 61379)
+2025-06-20 01:31:11,575 - ReliableUDP - INFO - Sent reliable message b3fa1ae3-7ee0-4817-8b22-ac18825bd44e to ('127.0.0.1', 61379)
+2025-06-20 01:31:11,575 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:31:11,575 - ReliableUDP - INFO - ACK received for message b3fa1ae3-7ee0-4817-8b22-ac18825bd44e, delivery time: 0.000s
+2025-06-20 01:31:31,006 - ChatServer - INFO - User fatima joined from ('127.0.0.1', 58055)
+2025-06-20 01:31:31,008 - ReliableUDP - INFO - Sent reliable message 7c15b77f-8cc1-48b3-b52a-678ab395056d to ('127.0.0.1', 61379)
+2025-06-20 01:31:31,008 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:31:31,010 - ReliableUDP - INFO - Sent reliable message 7c15b77f-8cc1-48b3-b52a-678ab395056d to ('127.0.0.1', 58055)
+2025-06-20 01:31:31,010 - ChatServer - INFO - Broadcasted user address list to fatima
+2025-06-20 01:31:31,010 - ReliableUDP - INFO - Sent reliable message 496ec35d-62ca-4690-84a5-ea3b556f85fb to ('127.0.0.1', 61379)
+2025-06-20 01:31:31,012 - ReliableUDP - INFO - ACK received for message 7c15b77f-8cc1-48b3-b52a-678ab395056d, delivery time: 0.002s
+2025-06-20 01:31:31,012 - ReliableUDP - INFO - ACK received for message 496ec35d-62ca-4690-84a5-ea3b556f85fb, delivery time: 0.002s
+2025-06-20 01:31:49,263 - ChatServer - INFO - User osman joined from ('127.0.0.1', 50548)
+2025-06-20 01:31:49,263 - ReliableUDP - INFO - Sent reliable message f5366e94-44e4-42ae-b22c-5cf0805ea7ae to ('127.0.0.1', 61379)
+2025-06-20 01:31:49,263 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:31:49,267 - ReliableUDP - INFO - Sent reliable message f5366e94-44e4-42ae-b22c-5cf0805ea7ae to ('127.0.0.1', 58055)
+2025-06-20 01:31:49,267 - ChatServer - INFO - Broadcasted user address list to fatima
+2025-06-20 01:31:49,268 - ReliableUDP - INFO - Sent reliable message f5366e94-44e4-42ae-b22c-5cf0805ea7ae to ('127.0.0.1', 50548)
+2025-06-20 01:31:49,268 - ChatServer - INFO - Broadcasted user address list to osman
+2025-06-20 01:31:49,268 - ReliableUDP - INFO - Sent reliable message 8294a99d-f694-4862-89ec-25deb0d954ab to ('127.0.0.1', 61379)
+2025-06-20 01:31:49,268 - ReliableUDP - INFO - Sent reliable message 8294a99d-f694-4862-89ec-25deb0d954ab to ('127.0.0.1', 58055)
+2025-06-20 01:31:49,271 - ReliableUDP - INFO - ACK received for message f5366e94-44e4-42ae-b22c-5cf0805ea7ae, delivery time: 0.003s
+2025-06-20 01:31:49,271 - ReliableUDP - INFO - ACK received for message 8294a99d-f694-4862-89ec-25deb0d954ab, delivery time: 0.003s
+2025-06-20 01:32:56,661 - ChatServer - WARNING - Removing inactive user: süm
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - Sent reliable message 2009f409-3680-431d-8f18-ad6b93ab6a24 to ('127.0.0.1', 58055)
+2025-06-20 01:32:56,662 - ChatServer - INFO - Broadcasted user address list to fatima
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - ACK received for message 2009f409-3680-431d-8f18-ad6b93ab6a24, delivery time: 0.000s
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - Sent reliable message 2009f409-3680-431d-8f18-ad6b93ab6a24 to ('127.0.0.1', 50548)
+2025-06-20 01:32:56,662 - ChatServer - INFO - Broadcasted user address list to osman
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - ACK received for message 2009f409-3680-431d-8f18-ad6b93ab6a24, delivery time: 0.000s
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - Sent reliable message 53101f60-0450-4b7c-8aa0-ce2f2fd2aa10 to ('127.0.0.1', 58055)
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - ACK received for message 53101f60-0450-4b7c-8aa0-ce2f2fd2aa10, delivery time: 0.000s
+2025-06-20 01:32:56,662 - ReliableUDP - INFO - Sent reliable message 53101f60-0450-4b7c-8aa0-ce2f2fd2aa10 to ('127.0.0.1', 50548)
+2025-06-20 01:32:56,665 - ChatServer - WARNING - Removing inactive user: fatima
+2025-06-20 01:32:56,665 - ReliableUDP - INFO - Sent reliable message 79486398-66f9-407b-b589-fb8c678beb79 to ('127.0.0.1', 50548)
+2025-06-20 01:32:56,665 - ReliableUDP - INFO - ACK received for message 79486398-66f9-407b-b589-fb8c678beb79, delivery time: 0.000s
+2025-06-20 01:32:56,665 - ChatServer - INFO - Broadcasted user address list to osman
+2025-06-20 01:32:56,665 - ReliableUDP - INFO - Sent reliable message cbefc898-e95d-49c7-92a1-304fdf5e6227 to ('127.0.0.1', 50548)
+2025-06-20 01:32:56,665 - ReliableUDP - INFO - ACK received for message cbefc898-e95d-49c7-92a1-304fdf5e6227, delivery time: 0.000s
+2025-06-20 01:32:56,665 - ChatServer - WARNING - Removing inactive user: osman
+2025-06-20 01:39:58,104 - ChatServer - INFO - User süm left the chat
+2025-06-20 01:39:58,104 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:39:59,862 - ChatServer - INFO - User fatima left the chat
+2025-06-20 01:39:59,862 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:40:01,301 - ChatServer - INFO - User osman left the chat
+2025-06-20 01:40:01,301 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:40:35,708 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 01:40:49,919 - ChatServer - INFO - User süme joined from ('127.0.0.1', 49793)
+2025-06-20 01:40:49,933 - ReliableUDP - INFO - Sent reliable message be1b6414-d625-45b0-98ab-7e697e42a87f to ('127.0.0.1', 49793)
+2025-06-20 01:40:49,933 - ChatServer - INFO - Broadcasted user address list to süme
+2025-06-20 01:40:49,933 - ReliableUDP - INFO - ACK received for message be1b6414-d625-45b0-98ab-7e697e42a87f, delivery time: 0.015s
+2025-06-20 01:41:10,163 - ChatServer - INFO - User akin joined from ('127.0.0.1', 63289)
+2025-06-20 01:41:10,165 - ReliableUDP - INFO - Sent reliable message 636dda24-a5f4-4e74-b8f1-4ccb85bf2145 to ('127.0.0.1', 49793)
+2025-06-20 01:41:10,165 - ChatServer - INFO - Broadcasted user address list to süme
+2025-06-20 01:41:10,167 - ReliableUDP - INFO - Sent reliable message 636dda24-a5f4-4e74-b8f1-4ccb85bf2145 to ('127.0.0.1', 63289)
+2025-06-20 01:41:10,167 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 01:41:10,167 - ReliableUDP - INFO - Sent reliable message b6f85ea5-3a53-436a-87cb-25171c6efb96 to ('127.0.0.1', 49793)
+2025-06-20 01:41:10,167 - ReliableUDP - INFO - ACK received for message 636dda24-a5f4-4e74-b8f1-4ccb85bf2145, delivery time: 0.000s
+2025-06-20 01:41:10,167 - ReliableUDP - INFO - ACK received for message b6f85ea5-3a53-436a-87cb-25171c6efb96, delivery time: 0.000s
+2025-06-20 01:41:32,899 - ChatServer - INFO - User osman joined from ('127.0.0.1', 53442)
+2025-06-20 01:41:32,899 - ReliableUDP - INFO - Sent reliable message 2bd035f8-15c0-4c9b-8c33-1f38801fb49b to ('127.0.0.1', 49793)
+2025-06-20 01:41:32,899 - ChatServer - INFO - Broadcasted user address list to süme
+2025-06-20 01:41:32,899 - ReliableUDP - INFO - Sent reliable message 2bd035f8-15c0-4c9b-8c33-1f38801fb49b to ('127.0.0.1', 63289)
+2025-06-20 01:41:32,902 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 01:41:32,902 - ReliableUDP - INFO - Sent reliable message 2bd035f8-15c0-4c9b-8c33-1f38801fb49b to ('127.0.0.1', 53442)
+2025-06-20 01:41:32,902 - ChatServer - INFO - Broadcasted user address list to osman
+2025-06-20 01:41:32,902 - ReliableUDP - INFO - Sent reliable message e51cd16d-eeee-4618-b8aa-4371224d6df4 to ('127.0.0.1', 49793)
+2025-06-20 01:41:32,902 - ReliableUDP - INFO - Sent reliable message e51cd16d-eeee-4618-b8aa-4371224d6df4 to ('127.0.0.1', 63289)
+2025-06-20 01:41:32,902 - ReliableUDP - INFO - ACK received for message 2bd035f8-15c0-4c9b-8c33-1f38801fb49b, delivery time: 0.000s
+2025-06-20 01:41:32,902 - ReliableUDP - INFO - ACK received for message e51cd16d-eeee-4618-b8aa-4371224d6df4, delivery time: 0.000s
+2025-06-20 01:42:35,758 - ChatServer - WARNING - Removing inactive user: süme
+2025-06-20 01:42:35,758 - ReliableUDP - INFO - Sent reliable message e80da870-1ed0-4e70-8953-e62e8a25c9cf to ('127.0.0.1', 63289)
+2025-06-20 01:42:35,758 - ChatServer - INFO - Broadcasted user address list to akin
+2025-06-20 01:42:35,758 - ReliableUDP - INFO - ACK received for message e80da870-1ed0-4e70-8953-e62e8a25c9cf, delivery time: 0.000s
+2025-06-20 01:42:35,758 - ReliableUDP - INFO - Sent reliable message e80da870-1ed0-4e70-8953-e62e8a25c9cf to ('127.0.0.1', 53442)
+2025-06-20 01:42:35,758 - ChatServer - INFO - Broadcasted user address list to osman
+2025-06-20 01:42:35,758 - ReliableUDP - INFO - ACK received for message e80da870-1ed0-4e70-8953-e62e8a25c9cf, delivery time: 0.000s
+2025-06-20 01:42:35,758 - ReliableUDP - INFO - Sent reliable message aa2b93c0-400a-4ab2-8f9a-81fcb61ba346 to ('127.0.0.1', 63289)
+2025-06-20 01:42:35,758 - ReliableUDP - INFO - ACK received for message aa2b93c0-400a-4ab2-8f9a-81fcb61ba346, delivery time: 0.000s
+2025-06-20 01:42:35,766 - ReliableUDP - INFO - Sent reliable message aa2b93c0-400a-4ab2-8f9a-81fcb61ba346 to ('127.0.0.1', 53442)
+2025-06-20 01:42:35,766 - ReliableUDP - INFO - ACK received for message aa2b93c0-400a-4ab2-8f9a-81fcb61ba346, delivery time: 0.000s
+2025-06-20 01:42:35,767 - ChatServer - WARNING - Removing inactive user: akin
+2025-06-20 01:42:35,767 - ReliableUDP - INFO - Sent reliable message b246d83c-0f09-4ecf-98e3-299eae9e8c93 to ('127.0.0.1', 53442)
+2025-06-20 01:42:35,767 - ReliableUDP - INFO - ACK received for message b246d83c-0f09-4ecf-98e3-299eae9e8c93, delivery time: 0.000s
+2025-06-20 01:42:35,767 - ChatServer - INFO - Broadcasted user address list to osman
+2025-06-20 01:42:35,770 - ReliableUDP - INFO - Sent reliable message 3cf31a0b-4a54-48e7-b325-c340024b5f72 to ('127.0.0.1', 53442)
+2025-06-20 01:42:35,770 - ReliableUDP - INFO - ACK received for message 3cf31a0b-4a54-48e7-b325-c340024b5f72, delivery time: 0.000s
+2025-06-20 01:42:35,772 - ChatServer - WARNING - Removing inactive user: osman
+2025-06-20 01:47:12,459 - ChatServer - INFO - User süme left the chat
+2025-06-20 01:47:12,463 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:47:14,214 - ChatServer - INFO - User akin left the chat
+2025-06-20 01:47:14,214 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:47:15,890 - ChatServer - INFO - User osman left the chat
+2025-06-20 01:47:15,894 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:48:35,856 - ChatServer - WARNING - Removing inactive user: süme
+2025-06-20 01:48:35,856 - ChatServer - WARNING - Removing inactive user: akin
+2025-06-20 01:48:35,856 - ChatServer - WARNING - Removing inactive user: osman
+2025-06-20 01:49:53,899 - ChatServer - INFO - Chat server started on 0.0.0.0:5000
+2025-06-20 01:50:46,244 - ChatServer - INFO - User süm joined from ('127.0.0.1', 51541)
+2025-06-20 01:50:46,246 - ReliableUDP - INFO - Sent reliable message 32fdfb09-a0b8-4003-81c0-2e7dd836e899 to ('127.0.0.1', 51541)
+2025-06-20 01:50:46,246 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:50:46,248 - ReliableUDP - INFO - ACK received for message 32fdfb09-a0b8-4003-81c0-2e7dd836e899, delivery time: 0.002s
+2025-06-20 01:51:16,481 - ChatServer - INFO - User osmnn joined from ('127.0.0.1', 63993)
+2025-06-20 01:51:16,481 - ReliableUDP - INFO - Sent reliable message 5385ba02-088c-4960-82a1-27c022e87c17 to ('127.0.0.1', 51541)
+2025-06-20 01:51:16,487 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:51:16,487 - ReliableUDP - INFO - Sent reliable message 5385ba02-088c-4960-82a1-27c022e87c17 to ('127.0.0.1', 63993)
+2025-06-20 01:51:16,488 - ChatServer - INFO - Broadcasted user address list to osmnn
+2025-06-20 01:51:16,488 - ReliableUDP - INFO - Sent reliable message c09fe856-1558-4358-9f34-71491be448b0 to ('127.0.0.1', 51541)
+2025-06-20 01:51:16,489 - ReliableUDP - INFO - ACK received for message 5385ba02-088c-4960-82a1-27c022e87c17, delivery time: 0.002s
+2025-06-20 01:51:16,489 - ReliableUDP - INFO - ACK received for message c09fe856-1558-4358-9f34-71491be448b0, delivery time: 0.001s
+2025-06-20 01:51:33,893 - ChatServer - INFO - User fat joined from ('127.0.0.1', 57900)
+2025-06-20 01:51:33,893 - ReliableUDP - INFO - Sent reliable message 246b57cf-a99d-44ef-bd15-d7dd387b1214 to ('127.0.0.1', 51541)
+2025-06-20 01:51:33,893 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:51:33,893 - ReliableUDP - INFO - Sent reliable message 246b57cf-a99d-44ef-bd15-d7dd387b1214 to ('127.0.0.1', 63993)
+2025-06-20 01:51:33,893 - ChatServer - INFO - Broadcasted user address list to osmnn
+2025-06-20 01:51:33,893 - ReliableUDP - INFO - Sent reliable message 246b57cf-a99d-44ef-bd15-d7dd387b1214 to ('127.0.0.1', 57900)
+2025-06-20 01:51:33,893 - ChatServer - INFO - Broadcasted user address list to fat
+2025-06-20 01:51:33,901 - ReliableUDP - INFO - Sent reliable message d3b0daa7-adf7-4978-b68f-5238072e60be to ('127.0.0.1', 51541)
+2025-06-20 01:51:33,901 - ReliableUDP - INFO - Sent reliable message d3b0daa7-adf7-4978-b68f-5238072e60be to ('127.0.0.1', 63993)
+2025-06-20 01:51:33,901 - ReliableUDP - INFO - ACK received for message 246b57cf-a99d-44ef-bd15-d7dd387b1214, delivery time: 0.008s
+2025-06-20 01:51:33,901 - ReliableUDP - INFO - ACK received for message d3b0daa7-adf7-4978-b68f-5238072e60be, delivery time: 0.000s
+2025-06-20 01:55:07,189 - ChatServer - INFO - User fat left the chat
+2025-06-20 01:55:07,193 - ReliableUDP - INFO - Sent reliable message cce3761a-f65a-4633-b28a-8f1dd5965df4 to ('127.0.0.1', 51541)
+2025-06-20 01:55:07,193 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:55:07,195 - ReliableUDP - INFO - Sent reliable message cce3761a-f65a-4633-b28a-8f1dd5965df4 to ('127.0.0.1', 63993)
+2025-06-20 01:55:07,195 - ChatServer - INFO - Broadcasted user address list to osmnn
+2025-06-20 01:55:07,195 - ReliableUDP - INFO - Sent reliable message 51120fc5-7877-4d64-aa51-5ae057adea2c to ('127.0.0.1', 51541)
+2025-06-20 01:55:07,197 - ReliableUDP - INFO - Sent reliable message 51120fc5-7877-4d64-aa51-5ae057adea2c to ('127.0.0.1', 63993)
+2025-06-20 01:55:07,199 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:55:07,199 - ReliableUDP - INFO - ACK received for message cce3761a-f65a-4633-b28a-8f1dd5965df4, delivery time: 0.006s
+2025-06-20 01:55:07,202 - ReliableUDP - INFO - ACK received for message 51120fc5-7877-4d64-aa51-5ae057adea2c, delivery time: 0.004s
+2025-06-20 01:55:11,592 - ChatServer - INFO - User osmnn left the chat
+2025-06-20 01:55:11,593 - ReliableUDP - INFO - Sent reliable message c676916b-f8c7-48dd-8757-272cc51c7073 to ('127.0.0.1', 51541)
+2025-06-20 01:55:11,593 - ChatServer - INFO - Broadcasted user address list to süm
+2025-06-20 01:55:11,593 - ReliableUDP - INFO - Sent reliable message f6058829-b2b1-480b-a67b-6c1279b67fa8 to ('127.0.0.1', 51541)
+2025-06-20 01:55:11,593 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-20 01:55:11,593 - ReliableUDP - INFO - ACK received for message c676916b-f8c7-48dd-8757-272cc51c7073, delivery time: 0.000s
+2025-06-20 01:55:11,593 - ReliableUDP - INFO - ACK received for message f6058829-b2b1-480b-a67b-6c1279b67fa8, delivery time: 0.000s
+2025-06-20 01:55:13,148 - ChatServer - INFO - User süm left the chat
+2025-06-20 01:55:13,151 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 03:33:59,335 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 03:39:39,085 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 03:40:11,943 - ChatServer - INFO - User þdlsf joined from ('127.0.0.1', 60063)
+2025-06-21 03:40:11,943 - ReliableUDP - INFO - Sent reliable message fdb92fdc-632e-48a7-9e7f-5af407d0318d to ('127.0.0.1', 60063)
+2025-06-21 03:40:11,943 - ChatServer - INFO - Broadcasted user address list to þdlsf
+2025-06-21 03:40:11,953 - ReliableUDP - INFO - ACK received for message fdb92fdc-632e-48a7-9e7f-5af407d0318d, delivery time: 0.010s
+2025-06-21 03:40:15,339 - ChatServer - INFO - Message from þdlsf: dfsdfkjds
+2025-06-21 03:40:40,964 - ChatServer - INFO - User dçks joined from ('127.0.0.1', 53999)
+2025-06-21 03:40:40,964 - ReliableUDP - INFO - Sent reliable message fb5c5757-ba0c-4a2c-a4e8-25b81a2f85c4 to ('127.0.0.1', 60063)
+2025-06-21 03:40:40,964 - ChatServer - INFO - Broadcasted user address list to þdlsf
+2025-06-21 03:40:40,969 - ReliableUDP - INFO - Sent reliable message fb5c5757-ba0c-4a2c-a4e8-25b81a2f85c4 to ('127.0.0.1', 53999)
+2025-06-21 03:40:40,969 - ChatServer - INFO - Broadcasted user address list to dçks
+2025-06-21 03:40:40,969 - ReliableUDP - INFO - Sent reliable message 12d282ba-47d9-475b-89c4-7c46f411b84e to ('127.0.0.1', 60063)
+2025-06-21 03:40:40,969 - ReliableUDP - INFO - ACK received for message fb5c5757-ba0c-4a2c-a4e8-25b81a2f85c4, delivery time: 0.005s
+2025-06-21 03:40:40,969 - ReliableUDP - INFO - ACK received for message 12d282ba-47d9-475b-89c4-7c46f411b84e, delivery time: 0.000s
+2025-06-21 03:40:43,357 - ChatServer - INFO - Message from dçks: dçsöfmdöngsm
+2025-06-21 03:40:43,357 - ReliableUDP - INFO - Sent reliable message 212571c3-8634-48fc-8c4b-6cb68ebd6ae9 to ('127.0.0.1', 60063)
+2025-06-21 03:40:43,357 - ReliableUDP - INFO - ACK received for message 212571c3-8634-48fc-8c4b-6cb68ebd6ae9, delivery time: 0.000s
+2025-06-21 03:41:15,833 - ChatServer - INFO - User þdlsf left the chat
+2025-06-21 03:41:15,836 - ReliableUDP - INFO - Sent reliable message ecd40790-f495-49dd-baf5-1cee2703bba2 to ('127.0.0.1', 53999)
+2025-06-21 03:41:15,836 - ChatServer - INFO - Broadcasted user address list to dçks
+2025-06-21 03:41:15,836 - ReliableUDP - INFO - Sent reliable message 4c6536d2-3379-4caf-8676-e05080bb83a0 to ('127.0.0.1', 53999)
+2025-06-21 03:41:15,839 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 03:41:15,839 - ReliableUDP - INFO - ACK received for message ecd40790-f495-49dd-baf5-1cee2703bba2, delivery time: 0.004s
+2025-06-21 03:41:15,839 - ReliableUDP - INFO - ACK received for message 4c6536d2-3379-4caf-8676-e05080bb83a0, delivery time: 0.004s
+2025-06-21 03:41:17,173 - ChatServer - INFO - User dçks left the chat
+2025-06-21 03:41:17,173 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 03:45:13,262 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 03:45:39,296 - ChatServer - INFO - User mnöm joined from ('127.0.0.1', 52154)
+2025-06-21 03:45:39,301 - ReliableUDP - INFO - Sent reliable message d9d5d2f7-4a60-4867-ac51-e425f6b9104d to ('127.0.0.1', 52154)
+2025-06-21 03:45:39,301 - ChatServer - INFO - Broadcasted user address list to mnöm
+2025-06-21 03:45:39,301 - ReliableUDP - INFO - ACK received for message d9d5d2f7-4a60-4867-ac51-e425f6b9104d, delivery time: 0.005s
+2025-06-21 03:45:41,694 - ChatServer - INFO - Message from mnöm: ömnmö
+2025-06-21 03:46:37,068 - ChatServer - INFO - User mnöm left the chat
+2025-06-21 03:46:37,070 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 03:50:03,282 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 03:50:19,311 - ChatServer - INFO - User çdögmmmdsfs joined from ('127.0.0.1', 63112)
+2025-06-21 03:50:19,313 - ReliableUDP - INFO - Sent reliable message b227240b-036d-46cb-880e-377254f4feea to ('127.0.0.1', 63112)
+2025-06-21 03:50:19,315 - ChatServer - INFO - Broadcasted user address list to çdögmmmdsfs
+2025-06-21 03:50:19,315 - ReliableUDP - INFO - ACK received for message b227240b-036d-46cb-880e-377254f4feea, delivery time: 0.001s
+2025-06-21 03:51:01,206 - ChatServer - INFO - User çdögmmmdsfs left the chat
+2025-06-21 03:51:01,206 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:02:45,503 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:03:37,937 - ChatServer - INFO - User cb joined from ('127.0.0.1', 56858)
+2025-06-21 04:03:37,937 - ReliableUDP - INFO - Sent reliable message 0c826bfc-66d5-41c8-8113-56efe2831a45 to ('127.0.0.1', 56858)
+2025-06-21 04:03:37,937 - ChatServer - INFO - Broadcasted user address list to cb
+2025-06-21 04:03:37,937 - ReliableUDP - INFO - ACK received for message 0c826bfc-66d5-41c8-8113-56efe2831a45, delivery time: 0.000s
+2025-06-21 04:03:42,723 - ChatServer - INFO - Message from cb: dfdgfg
+2025-06-21 04:03:47,357 - ChatServer - INFO - User cb left the chat
+2025-06-21 04:03:47,357 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:08:41,315 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:09:01,908 - ChatServer - INFO - User çfmgfx joined from ('127.0.0.1', 49666)
+2025-06-21 04:09:01,908 - ReliableUDP - INFO - Sent reliable message f754b7a4-5ba9-4d75-a6a3-0dbbee689a32 to ('127.0.0.1', 49666)
+2025-06-21 04:09:01,908 - ChatServer - INFO - Broadcasted user address list to çfmgfx
+2025-06-21 04:09:01,908 - ReliableUDP - INFO - ACK received for message f754b7a4-5ba9-4d75-a6a3-0dbbee689a32, delivery time: 0.000s
+2025-06-21 04:09:08,766 - ChatServer - INFO - Message from çfmgfx: dömfösdm
+2025-06-21 04:09:24,047 - ChatServer - INFO - User çfmgfx left the chat
+2025-06-21 04:09:24,047 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:14:52,361 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:15:10,973 - ChatServer - INFO - User ödsfmdm joined from ('127.0.0.1', 49809)
+2025-06-21 04:15:10,973 - ReliableUDP - INFO - Sent reliable message abc63440-3356-43fd-a38f-684f51a2d187 to ('127.0.0.1', 49809)
+2025-06-21 04:15:10,973 - ChatServer - INFO - Broadcasted user address list to ödsfmdm
+2025-06-21 04:15:10,973 - ReliableUDP - INFO - ACK received for message abc63440-3356-43fd-a38f-684f51a2d187, delivery time: 0.000s
+2025-06-21 04:15:13,926 - ChatServer - INFO - Message from ödsfmdm: esdfnösmnf
+2025-06-21 04:15:34,800 - ChatServer - INFO - Message from ödsfmdm: fsldknsdf
+2025-06-21 04:15:36,800 - ChatServer - INFO - User ödsfmdm left the chat
+2025-06-21 04:15:36,800 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:18:04,148 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:18:17,565 - ChatServer - INFO - User fdssd joined from ('127.0.0.1', 63808)
+2025-06-21 04:18:17,565 - ReliableUDP - INFO - Sent reliable message 3b496c60-c3af-4521-9c1c-adbb915eead5 to ('127.0.0.1', 63808)
+2025-06-21 04:18:17,565 - ChatServer - INFO - Broadcasted user address list to fdssd
+2025-06-21 04:18:17,565 - ReliableUDP - INFO - ACK received for message 3b496c60-c3af-4521-9c1c-adbb915eead5, delivery time: 0.000s
+2025-06-21 04:18:25,954 - ChatServer - INFO - Message from fdssd: fdsdsfsddddddddddddddd
+2025-06-21 04:18:49,820 - ChatServer - INFO - User fdssd left the chat
+2025-06-21 04:18:49,820 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:23:38,925 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:33:49,611 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:34:10,442 - ChatServer - INFO - User esödgömsof joined from ('127.0.0.1', 60016)
+2025-06-21 04:34:10,442 - ReliableUDP - INFO - Sent reliable message d9660168-d27b-42b7-97b2-e69b3b2bc71a to ('127.0.0.1', 60016)
+2025-06-21 04:34:10,442 - ChatServer - INFO - Broadcasted user address list to esödgömsof
+2025-06-21 04:34:10,442 - ReliableUDP - INFO - ACK received for message d9660168-d27b-42b7-97b2-e69b3b2bc71a, delivery time: 0.000s
+2025-06-21 04:34:14,265 - ChatServer - INFO - Message from esödgömsof: lsfmçdsö
+2025-06-21 04:34:49,444 - ChatServer - INFO - User esödgömsof left the chat
+2025-06-21 04:34:49,444 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:35:45,406 - ChatServer - INFO - Chat server started on 127.0.0.1:5000
+2025-06-21 04:36:00,510 - ChatServer - INFO - User çösfnd joined from ('127.0.0.1', 50941)
+2025-06-21 04:36:00,510 - ReliableUDP - INFO - Sent reliable message 060c69fd-d0a7-4016-b2e7-36740a025697 to ('127.0.0.1', 50941)
+2025-06-21 04:36:00,510 - ChatServer - INFO - Broadcasted user address list to çösfnd
+2025-06-21 04:36:00,510 - ReliableUDP - INFO - ACK received for message 060c69fd-d0a7-4016-b2e7-36740a025697, delivery time: 0.000s
+2025-06-21 04:36:04,103 - ChatServer - INFO - Message from çösfnd: çösfmsdöçm
+2025-06-21 04:36:45,315 - ChatServer - INFO - User 123 joined from ('127.0.0.1', 53696)
+2025-06-21 04:36:45,315 - ReliableUDP - INFO - Sent reliable message cc479da4-0d56-4714-b192-fb7452343d48 to ('127.0.0.1', 50941)
+2025-06-21 04:36:45,315 - ChatServer - INFO - Broadcasted user address list to çösfnd
+2025-06-21 04:36:45,315 - ReliableUDP - INFO - Sent reliable message cc479da4-0d56-4714-b192-fb7452343d48 to ('127.0.0.1', 53696)
+2025-06-21 04:36:45,315 - ChatServer - INFO - Broadcasted user address list to 123
+2025-06-21 04:36:45,315 - ReliableUDP - INFO - Sent reliable message fcdbd73b-8f91-4b6d-bd25-4fa7f6ba8412 to ('127.0.0.1', 50941)
+2025-06-21 04:36:45,315 - ReliableUDP - INFO - ACK received for message cc479da4-0d56-4714-b192-fb7452343d48, delivery time: 0.000s
+2025-06-21 04:36:45,315 - ReliableUDP - INFO - ACK received for message fcdbd73b-8f91-4b6d-bd25-4fa7f6ba8412, delivery time: 0.000s
+2025-06-21 04:36:49,397 - ChatServer - INFO - Message from 123: merhaba
+2025-06-21 04:36:49,397 - ReliableUDP - INFO - Sent reliable message 572cf3bb-d3a2-44bd-abc7-a1dc5ac189cc to ('127.0.0.1', 50941)
+2025-06-21 04:36:49,397 - ReliableUDP - INFO - ACK received for message 572cf3bb-d3a2-44bd-abc7-a1dc5ac189cc, delivery time: 0.000s
+2025-06-21 04:37:07,206 - ChatServer - INFO - User 789 joined from ('127.0.0.1', 58125)
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - Sent reliable message bea324fd-f2e6-4a02-929a-570e6e327fc8 to ('127.0.0.1', 50941)
+2025-06-21 04:37:07,206 - ChatServer - INFO - Broadcasted user address list to çösfnd
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - Sent reliable message bea324fd-f2e6-4a02-929a-570e6e327fc8 to ('127.0.0.1', 53696)
+2025-06-21 04:37:07,206 - ChatServer - INFO - Broadcasted user address list to 123
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - Sent reliable message bea324fd-f2e6-4a02-929a-570e6e327fc8 to ('127.0.0.1', 58125)
+2025-06-21 04:37:07,206 - ChatServer - INFO - Broadcasted user address list to 789
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - Sent reliable message a6884d62-004f-4779-9ca3-01024233535b to ('127.0.0.1', 50941)
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - Sent reliable message a6884d62-004f-4779-9ca3-01024233535b to ('127.0.0.1', 53696)
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - ACK received for message bea324fd-f2e6-4a02-929a-570e6e327fc8, delivery time: 0.000s
+2025-06-21 04:37:07,206 - ReliableUDP - INFO - ACK received for message a6884d62-004f-4779-9ca3-01024233535b, delivery time: 0.000s
+2025-06-21 04:37:11,471 - ChatServer - INFO - Message from 789: slmmm
+2025-06-21 04:37:11,486 - ReliableUDP - INFO - Sent reliable message c83e1acc-36d3-49d3-9c39-ed3f82bb4940 to ('127.0.0.1', 50941)
+2025-06-21 04:37:11,486 - ReliableUDP - INFO - Sent reliable message c83e1acc-36d3-49d3-9c39-ed3f82bb4940 to ('127.0.0.1', 53696)
+2025-06-21 04:37:11,486 - ReliableUDP - INFO - ACK received for message c83e1acc-36d3-49d3-9c39-ed3f82bb4940, delivery time: 0.000s
+2025-06-21 04:40:38,465 - ChatServer - INFO - Message from çösfnd: jchasöfad
+2025-06-21 04:40:38,465 - ReliableUDP - INFO - Sent reliable message cb7a9d7d-6e57-400e-850f-6033c1ff6944 to ('127.0.0.1', 53696)
+2025-06-21 04:40:38,465 - ReliableUDP - INFO - Sent reliable message cb7a9d7d-6e57-400e-850f-6033c1ff6944 to ('127.0.0.1', 58125)
+2025-06-21 04:40:38,465 - ReliableUDP - INFO - ACK received for message cb7a9d7d-6e57-400e-850f-6033c1ff6944, delivery time: 0.000s
+2025-06-21 04:41:26,603 - ChatServer - INFO - User 789 left the chat
+2025-06-21 04:41:26,603 - ReliableUDP - INFO - Sent reliable message b76ca778-9057-4507-a3dd-7f53e3a3e26d to ('127.0.0.1', 50941)
+2025-06-21 04:41:26,603 - ChatServer - INFO - Broadcasted user address list to çösfnd
+2025-06-21 04:41:26,603 - ReliableUDP - INFO - Sent reliable message b76ca778-9057-4507-a3dd-7f53e3a3e26d to ('127.0.0.1', 53696)
+2025-06-21 04:41:26,603 - ChatServer - INFO - Broadcasted user address list to 123
+2025-06-21 04:41:26,603 - ReliableUDP - INFO - Sent reliable message 41ece6e4-1846-4943-a71b-bca8879974b5 to ('127.0.0.1', 50941)
+2025-06-21 04:41:26,603 - ReliableUDP - INFO - Sent reliable message 41ece6e4-1846-4943-a71b-bca8879974b5 to ('127.0.0.1', 53696)
+2025-06-21 04:41:26,603 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:41:26,603 - ReliableUDP - INFO - ACK received for message b76ca778-9057-4507-a3dd-7f53e3a3e26d, delivery time: 0.000s
+2025-06-21 04:41:26,618 - ReliableUDP - INFO - ACK received for message 41ece6e4-1846-4943-a71b-bca8879974b5, delivery time: 0.016s
+2025-06-21 04:42:19,705 - ChatServer - INFO - User çösfnd left the chat
+2025-06-21 04:42:19,705 - ReliableUDP - INFO - Sent reliable message b9a9243c-5f74-438e-9994-4f3e37ef8847 to ('127.0.0.1', 53696)
+2025-06-21 04:42:19,705 - ChatServer - INFO - Broadcasted user address list to 123
+2025-06-21 04:42:19,705 - ReliableUDP - INFO - Sent reliable message d6d50848-3aea-43b9-85ec-0febe4623946 to ('127.0.0.1', 53696)
+2025-06-21 04:42:19,705 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+2025-06-21 04:42:19,705 - ReliableUDP - INFO - ACK received for message b9a9243c-5f74-438e-9994-4f3e37ef8847, delivery time: 0.000s
+2025-06-21 04:42:19,705 - ReliableUDP - INFO - ACK received for message d6d50848-3aea-43b9-85ec-0febe4623946, delivery time: 0.000s
+2025-06-21 04:42:24,314 - ChatServer - INFO - User 123 left the chat
+2025-06-21 04:42:24,314 - ChatServer - ERROR - Error in server loop: [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
